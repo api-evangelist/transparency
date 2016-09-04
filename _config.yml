@@ -31,7 +31,7 @@ feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/a
 feature_image_width: 45
 
 # Project
-project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-transparency.png
+project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-transparency.jpg
 project_summary: APIs can contribute significantly to transparency of organizations, and this is my work to better understand how wider transparency is achieved (or not), and the role APIs can play. You can find news I've curated, organizations doing interesting things, some of the common building blocks I've identified, and open source tooling in this research report.
 
 # Navigation
