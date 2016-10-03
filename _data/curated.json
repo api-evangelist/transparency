@@ -1,10 +1,82 @@
 [
 	{
+		"curated_id": "udT0EZd6wJ2J6RxIh6kLXgVKL9jAatDjCLSojjYke94eWPlV4bSozFEiek406WZ8IIk6pC0LzMlBTRFMMQny7g117117",
+		"item_date": "2016-10-01 00:00:00",
+		"title": "ISRG Legal Transparency Report January 2016  June 2016",
+		"url": "https://letsencrypt.org//2016/10/01/legal-transparency-report.html",
+		"domain": "letsencrypt.org",
+		"image": ""
+	},
+	{
+		"curated_id": "gMcmRdu2FAwpknqn92lB123VjHf6oXxgCak116E6i1Mu5jJMO1xuDCArfB116mvD08XTzMwg9aWLVhyj98AwROtp8TLw117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Extraction and analysis of signatures from the Gene Expression Omnibus by the crowd",
+		"url": "http://www.nature.com/ncomms/2016/160926/ncomms12846/full/ncomms12846.html",
+		"domain": "www.nature.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1qZXUgp4lxq47NYpfEt4xtpoFm7nBq116zM7qgunDTMFtULri1RESrBErGYBC8R116ipwNG8UUBA116nrmsjWzKzIeDw117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Promoting Transparency in Trade Act Would Bring LongNeeded Reforms to the USTR",
+		"url": "https://www.eff.org/deeplinks/2016/09/promoting-transparency-trade-act-would-bring-long-needed-reforms-ustr",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "gSIYRdydomnrmqxAAX8PHQiknQM8Hu8dWb7bYIRPbJ6GILNkMxQTSJ123njm0O2afNaHXQZGFBT5TjNsZzgZ1NmQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Sharing Cybersecurity Threat Intelligence Is The Only Way We Win",
+		"url": "http://www.darkreading.com/partner-perspectives/intel/sharing-cybersecurity-threat-intelligence-is-the-only-way-we-win/a/d-id/1327022",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "OpOeLvh116Z0pOvGRenjGdV3EWe14DeN8NtOi0WSlYLNsZUsh7Oe9123SbRGJbQXmuJT116Slytj116R8TEdndamW2DLMQ117117",
 		"item_date": "2016-09-30 00:00:00",
 		"title": "Its Almost Like the Dallas PD Just Doesnt Care With These Bomb Robot FOIAs",
 		"url": "http://motherboard.vice.com/read/dallas-pd-bomb-robot-foia-responses",
 		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ghaBdfmane0OZ7612322LeqH0PNoY2Er116p4jrSNnFwFW7c4DCQyA123y0nVpoSMbV116WUOxy2dkSQsj6s29V123GW9vQQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Victory Gov Brown Signs Bill to Overhaul Californias Broken Gang Databases",
+		"url": "https://www.eff.org/deeplinks/2016/09/gov-brown-signs-bill-overhaul-californias-broken-gang-databases",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "sPu116KXSxHqPzXRalypxMY0zbl4bDUxXwCS402CNmGbpq4FqWszcGn1vdZlCPZi0meMcEt3eASfgiIklmMY9lYQ117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Empiricism and Transparency",
+		"url": "https://dzone.com/articles/empiricism-and-transparencyquot",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kFrIu64LWMeEPtkmvjnyoM8mChC5LDG8L1SBLp3Gi6aST45116dtL123XmIQF746AFTYxbE4IuZWDzyunnIIoNrnPA117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "A cornerstone of government transparency gets an overhaul",
+		"url": "https://gcn.com/articles/2016/09/29/dig-it-federal-it-dashboard.aspx",
+		"domain": "gcn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XU7T5muhJFjg08BS31fwkvXgaqcW3i123tw116LA2EMwwTjX4iqSlX3LW1231164qM123LUYK08r56VDz116U4ow123f116y4i2YVw117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Open Data Science Come To The Enterprise",
+		"url": "https://dzone.com/articles/open-data-science-come-to-the-enterprise",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aBdMZu4hkOa8Te47iRZH7PGrEAMgHzw116XclH1S9XTWVMhtuf1U58SfFeE2CAag0PCSH8RtkOYkC0nVUJLiFRRQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "What is the Open Access Spectrum Evaluation Tool",
+		"url": "http://www.oaspectrum.org/faq",
+		"domain": "www.oaspectrum.org",
 		"image": ""
 	},
 	{
