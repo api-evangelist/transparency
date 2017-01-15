@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "OJ116HXBt8WE9h116HxC1pK123dU123Nib7Q123U33116TZQgC0WV6HN3H116NZEKcara11GGUmA8I4o8vRbPSeOFAqRTX0zAo7w117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "USPTO 2016 Performance and Accountability Report",
+		"url": "http://patentlyo.com/patent/2017/01/performance-accountability-report.html",
+		"domain": "patentlyo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DZ0h9uuv9A3exJPEWCH6c1232ptPpK1TCO3RJUkCPJDZQZlHldu1nU96nFHAy8y3pX116ah123EDa123BnSr7kb116wSVCUQ117117",
+		"item_date": "2017-01-12 11:03:00",
+		"title": "GitHub  googlekeytransparency A transparent and secure way to look up public keys",
+		"url": "https://github.com/google/key-transparency/",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4212373123XRtnYXrGV116iu3Rklc116dKuV6fw44zkWYLFHhj7zpQ7w7TC1krqcZ8zjmZAqLV5RmIDKscg59ug1mQYz4w117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "Security Through Transparency",
+		"url": "https://security.googleblog.com/2017/01/security-through-transparency.html",
+		"domain": "security.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VbmVybTPvTzXIKRRc8eOd0T0vrt1161236l0H1H6mgIIrebpc220ZSv123tZ0Xuker4WeLSDexd63pINeMAlrbNHRGdg117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "FBOpen shuttered due to low usage",
+		"url": "https://fcw.com/articles/2017/01/11/fbopen-closed-rockwell.aspx",
+		"domain": "fcw.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bpnPT5g1165B84PuU2jua7NNL9E1HUuKtm3sVzLEjKebiTY5jiMygBYRFSfc0FiMYExs46F6FxBrwZn123PL2TtmsA117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "Finally Revealed Cloudflare Has Been Fighting NSL for Years",
+		"url": "https://www.eff.org/deeplinks/2017/01/finally-revealed-cloudflare-has-been-fighting-nsls-years",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
 		"curated_id": "nyX6e5116b6Q3PuV6inl5fEnRtqAkuJJDkfBZJTUASi5VNKxdA1TSy7xpP123DuTcLyslF7joQziI123Iphy0WBuSzWQ117117",
 		"item_date": "2017-01-03 00:00:00",
 		"title": "How Do We Ensure Transparent and Trustworthy AI in Fintech",
