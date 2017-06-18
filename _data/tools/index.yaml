@@ -1,25 +1,26 @@
+---
 - slug: certificate-transparency
   name: Certificate Transparency
   description: Auditing for TLS certificates.
-  url: 'https://github.com/google/certificate-transparency'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Encryption,Transparency'
+  url: https://github.com/google/certificate-transparency
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Encryption,Transparency
 - slug: openfec
   name: OpenFEC
-  description: >-
-    The first RESTful API for the Federal Election Commission. We\\\'re aiming
-    to make campaign finance more accessible for journalists, academics,
-    developers, and other transparency seekers.
-  url: 'https://github.com/18F/openFEC'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Transparency,Elections'
+  description: The first RESTful API for the Federal Election Commission. We're aiming
+    to make campaign finance more accessible for journalists, academics, developers,
+    and other transparency seekers.
+  url: https://github.com/18F/openFEC
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Transparency,Elections
+...
