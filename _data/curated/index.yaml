@@ -5,17 +5,17 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
-- curated_id: b5b188e6dd1b36bc1446601c9117d5e1
-  item_date: "2015-01-22 00:00:00"
-  title: Enterprise data inventories should be open ? not hidden from the public
-  url: http://sunlightfoundation.com/blog/2015/01/22/enterprise-data-inventories-should-be-public-not-hidden-away/
-  domain: sunlightfoundation.com
-  image: ""
 - curated_id: 21d4c31129ff2fc8febf3fe25f00ed6e
   item_date: "2015-01-22 00:00:00"
   title: How to Build a Transparent Company the Buffer Way
   url: https://zapier.com/blog/buffer-transparency/
   domain: zapier.com
+  image: ""
+- curated_id: b5b188e6dd1b36bc1446601c9117d5e1
+  item_date: "2015-01-22 00:00:00"
+  title: Enterprise data inventories should be open ? not hidden from the public
+  url: http://sunlightfoundation.com/blog/2015/01/22/enterprise-data-inventories-should-be-public-not-hidden-away/
+  domain: sunlightfoundation.com
   image: ""
 - curated_id: 2ad77346f436493a46e6abbea2384bf7
   item_date: "2015-01-28 00:00:00"
@@ -36,6 +36,18 @@
   url: http://sunlightfoundation.com/blog/2015/02/18/can-public-funding-initiatives-for-political-activity-increase-openness/
   domain: sunlightfoundation.com
   image: ""
+- curated_id: 045f3b9bd34f2a80df36c5d0836ca805
+  item_date: "2015-02-23 00:00:00"
+  title: 'Transparency reports on trial: New front for free speech?'
+  url: https://gigaom.com/2015/02/23/transparency-reports-on-trial-new-front-for-free-speech/
+  domain: gigaom.com
+  image: ""
+- curated_id: f8938d06b7014f74fc757c1b6dde77db
+  item_date: "2015-02-23 00:00:00"
+  title: 'Respoke: A Virtual Startup'
+  url: http://blog.respoke.io/post/111856782882/respoke-a-virtual-startup#_=_
+  domain: blog.respoke.io
+  image: ""
 - curated_id: 695b5b004d849eee46d5d9ec3bd0612b
   item_date: "2015-02-23 00:00:00"
   title: 'Open Data as an Accountability Tool: Chicago?s Problem Landlord List'
@@ -47,18 +59,6 @@
   title: The Evolution of Financial Transparency
   url: https://socrata.com/blog/evolution-financial-transparency/
   domain: socrata.com
-  image: ""
-- curated_id: f8938d06b7014f74fc757c1b6dde77db
-  item_date: "2015-02-23 00:00:00"
-  title: 'Respoke: A Virtual Startup'
-  url: http://blog.respoke.io/post/111856782882/respoke-a-virtual-startup#_=_
-  domain: blog.respoke.io
-  image: ""
-- curated_id: 045f3b9bd34f2a80df36c5d0836ca805
-  item_date: "2015-02-23 00:00:00"
-  title: 'Transparency reports on trial: New front for free speech?'
-  url: https://gigaom.com/2015/02/23/transparency-reports-on-trial-new-front-for-free-speech/
-  domain: gigaom.com
   image: ""
 - curated_id: 2b3db76839140d6be9d6138e65d194b2
   item_date: "2015-03-04 00:00:00"
@@ -110,12 +110,6 @@
   url: https://www.eff.org/deeplinks/2015/03/happy-sunshine-week-introducing-foilies
   domain: www.eff.org
   image: ""
-- curated_id: 0cb2a671788da92236aa1b7bf35aea7b
-  item_date: "2015-03-17 00:00:00"
-  title: 'Sunshine Week, Day Two: Senate E-Filing'
-  url: http://www.opensecrets.org/news/2015/03/sunshine-week-day-two-senate-e-filing/
-  domain: www.opensecrets.org
-  image: ""
 - curated_id: aeee8317feb6f96b7b8448e79fb50190
   item_date: "2015-03-17 00:00:00"
   title: State legislatures taking aim at dark money, disclosure
@@ -127,6 +121,12 @@
   title: 'Sunshine Week: Extractive Industries Transparency Initiative Event'
   url: https://18f.gsa.gov/2015/03/18/sunshine-week-extractive-industries-transparency-initiative-event/
   domain: 18f.gsa.gov
+  image: ""
+- curated_id: 0cb2a671788da92236aa1b7bf35aea7b
+  item_date: "2015-03-17 00:00:00"
+  title: 'Sunshine Week, Day Two: Senate E-Filing'
+  url: http://www.opensecrets.org/news/2015/03/sunshine-week-day-two-senate-e-filing/
+  domain: www.opensecrets.org
   image: ""
 - curated_id: a4c138a6c3377fcaa23a1c150e12ecbc
   item_date: "2015-03-17 14:15:52"
@@ -141,17 +141,17 @@
   url: http://www.theverge.com/2015/3/18/8246935/us-sets-foia-censor-denial-record
   domain: www.theverge.com
   image: ""
-- curated_id: 217ca45685f826e8e3547bc5c560189c
-  item_date: "2015-03-19 00:00:00"
-  title: 'Sunshine Week, Day Four: Corporate Disclosure of Political Spending'
-  url: http://www.opensecrets.org/news/2015/03/sunshine-week-day-four-corporate-disclosure-of-political-spending/
-  domain: www.opensecrets.org
-  image: ""
 - curated_id: 3855b9f4ecb52887c135f09732db2224
   item_date: "2015-03-19 00:00:00"
   title: 18F and the Movement to Show Your Stats
   url: http://www.smartchicagocollaborative.org/18f-and-the-movement-to-show-your-stats/
   domain: www.smartchicagocollaborative.org
+  image: ""
+- curated_id: 217ca45685f826e8e3547bc5c560189c
+  item_date: "2015-03-19 00:00:00"
+  title: 'Sunshine Week, Day Four: Corporate Disclosure of Political Spending'
+  url: http://www.opensecrets.org/news/2015/03/sunshine-week-day-four-corporate-disclosure-of-political-spending/
+  domain: www.opensecrets.org
   image: ""
 - curated_id: 1abac15f0738b21a54cf590e5b259f99
   item_date: "2015-03-23 00:00:00"
@@ -191,18 +191,18 @@
   url: http://www.programmableweb.com/news/new-york-states-new-open-data-api-increases-government-transparency/press-release/2015/03/31
   domain: www.programmableweb.com
   image: ""
-- curated_id: 18d0bfa3440e796f585850aed3113941
-  item_date: "2015-04-02 00:00:00"
-  title: Snapchat cuts off third-party apps, releases its first transparency report
-  url: http://www.theverge.com/2015/4/2/8335917/snapchat-transparency-report-third-party-app-access
-  domain: www.theverge.com
-  image: ""
 - curated_id: 03a624299599651cf63b0938a5ea21b2
   item_date: "2015-04-02 00:00:00"
   title: Snapchat?s first transparency report shows 403 data requests since November
     2014
   url: http://thenextweb.com/insider/2015/04/02/snapchats-first-transparency-report-shows-403-data-requests-since-november-2014/
   domain: thenextweb.com
+  image: ""
+- curated_id: 18d0bfa3440e796f585850aed3113941
+  item_date: "2015-04-02 00:00:00"
+  title: Snapchat cuts off third-party apps, releases its first transparency report
+  url: http://www.theverge.com/2015/4/2/8335917/snapchat-transparency-report-third-party-app-access
+  domain: www.theverge.com
   image: ""
 - curated_id: 5f4bd7b25b2d47d25e5e8d147212813f
   item_date: "2015-04-07 00:00:00"
@@ -235,17 +235,17 @@
   url: http://www.wyden.senate.gov/news/press-releases/wyden-introduces-package-to-boost-transparency-oversight-enforcement-and-oregon-values-in-trade-agreements
   domain: www.wyden.senate.gov
   image: ""
-- curated_id: 640d3d89b314b60f57b96a2770d71751
-  item_date: "2015-04-17 00:00:00"
-  title: Sunlight and allies continue to push for transparent political advertising
-  url: http://sunlightfoundation.com/blog/2015/04/17/sunlight-and-allies-continue-to-push-for-transparent-political-advertising/
-  domain: sunlightfoundation.com
-  image: ""
 - curated_id: eb5c36059e3017bff01c894b171a86d2
   item_date: "2015-04-17 00:00:00"
   title: 'Weekly StandUp #9: What Happened at OpenCorporates'
   url: http://blog.opencorporates.com/2015/04/17/weekly-standup-9-what-happened-at-opencorporates/
   domain: blog.opencorporates.com
+  image: ""
+- curated_id: 640d3d89b314b60f57b96a2770d71751
+  item_date: "2015-04-17 00:00:00"
+  title: Sunlight and allies continue to push for transparent political advertising
+  url: http://sunlightfoundation.com/blog/2015/04/17/sunlight-and-allies-continue-to-push-for-transparent-political-advertising/
+  domain: sunlightfoundation.com
   image: ""
 - curated_id: ddf5cc2d75309297c54d71dc87da7c9e
   item_date: "2015-04-20 00:00:00"
@@ -259,17 +259,17 @@
   url: http://cw.com.hk/news/microsoft-addresses-concerns-over-cloud-control-transparency
   domain: cw.com.hk
   image: ""
-- curated_id: 8217c4af4971b124c98bdfbb9ae5a22e
-  item_date: "2015-04-23 00:00:00"
-  title: 'Agile Development?s Secret Weapon: Transparency'
-  url: https://18f.gsa.gov/2015/04/24/agile-developments-secret-weapon-transparency/
-  domain: 18f.gsa.gov
-  image: ""
 - curated_id: 10257b787327cf3b4a079e6f60846e11
   item_date: "2015-04-23 00:00:00"
   title: Microsoft addresses cloud control and transparency concerns
   url: http://www.techcentral.ie/microsoft-addresses-cloud-control-and-transparency-concerns/
   domain: www.techcentral.ie
+  image: ""
+- curated_id: 8217c4af4971b124c98bdfbb9ae5a22e
+  item_date: "2015-04-23 00:00:00"
+  title: 'Agile Development?s Secret Weapon: Transparency'
+  url: https://18f.gsa.gov/2015/04/24/agile-developments-secret-weapon-transparency/
+  domain: 18f.gsa.gov
   image: ""
 - curated_id: 1d79757ea13e1b5765007b07178d0dc3
   item_date: "2015-04-24 00:00:00"
@@ -284,17 +284,17 @@
   url: http://sunlightfoundation.com/blog/2015/04/28/one-critical-transparency-flaw-in-the-new-usa-freedom-act/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 2daf3e514d8eb2246a44f0fdc31ccde1
-  item_date: "2015-05-01 00:00:00"
-  title: 'Slack: We haven?t received a single government data request'
-  url: http://venturebeat.com/2015/05/01/slack-we-havent-received-a-single-government-data-request/
-  domain: venturebeat.com
-  image: ""
 - curated_id: b5251cd6a0117c74fe7fe3ee89b4f55a
   item_date: "2015-05-01 00:00:00"
   title: Slack and Transparency
   url: http://slackhq.com/post/117871977170/transparency#_=_
   domain: slackhq.com
+  image: ""
+- curated_id: 2daf3e514d8eb2246a44f0fdc31ccde1
+  item_date: "2015-05-01 00:00:00"
+  title: 'Slack: We haven?t received a single government data request'
+  url: http://venturebeat.com/2015/05/01/slack-we-havent-received-a-single-government-data-request/
+  domain: venturebeat.com
   image: ""
 - curated_id: cfbf35a7009699720d63b0202cb7fbb3
   item_date: "2015-05-10 00:00:00"
@@ -309,6 +309,12 @@
   url: http://dp.la/info/2015/05/11/the-principles-for-establishing-international-interoperable-rights-statements/
   domain: dp.la
   image: ""
+- curated_id: 2d22e013d235fb49ba55a86a7a551edf
+  item_date: "2015-05-12 00:00:00"
+  title: Do U.K. campaign laws miss the mark on transparency?
+  url: http://sunlightfoundation.com/blog/2015/05/12/do-u-k-campaign-laws-miss-the-mark-on-transparency/
+  domain: sunlightfoundation.com
+  image: ""
 - curated_id: 3000c08bbb47a97f0c34546228f952dd
   item_date: "2015-05-12 00:00:00"
   title: DigitalOcean?s first transparency report reveals data requests for less than
@@ -322,12 +328,6 @@
   url: https://www.digitalocean.com/company/blog/digitaloceans-transparency-report/
   domain: www.digitalocean.com
   image: ""
-- curated_id: 2d22e013d235fb49ba55a86a7a551edf
-  item_date: "2015-05-12 00:00:00"
-  title: Do U.K. campaign laws miss the mark on transparency?
-  url: http://sunlightfoundation.com/blog/2015/05/12/do-u-k-campaign-laws-miss-the-mark-on-transparency/
-  domain: sunlightfoundation.com
-  image: ""
 - curated_id: d15d53f393432cd773646de73e3c965e
   item_date: "2015-05-14 00:00:00"
   title: Google expands the information it discloses in its Transparency Reports
@@ -340,18 +340,18 @@
   url: http://sunlightfoundation.com/blog/2015/05/15/stories-from-our-surveillance-transparency-panel/
   domain: sunlightfoundation.com
   image: ""
+- curated_id: c5d53e58d01c862a41eaed5d94ef58fe
+  item_date: "2015-05-15 17:38:52"
+  title: openFOIA &gt; Freedom of Information Act
+  url: https://open.foia.gov/
+  domain: open.foia.gov
+  image: ""
 - curated_id: 0f7c0de3307bc110302b26e85c36b826
   item_date: "2015-05-15 17:38:52"
   title: New Federal Website Makes FOIA Requests Easier To Understand, But Still Cant
     Make Them
   url: http://www.huffingtonpost.com/2015/05/15/federal-foia-website_n_7293816.html
   domain: www.huffingtonpost.com
-  image: ""
-- curated_id: c5d53e58d01c862a41eaed5d94ef58fe
-  item_date: "2015-05-15 17:38:52"
-  title: openFOIA &gt; Freedom of Information Act
-  url: https://open.foia.gov/
-  domain: open.foia.gov
   image: ""
 - curated_id: d7d45ab40c15eaf1d5e4044ae29c2f87
   item_date: "2015-05-19 00:00:00"
@@ -383,17 +383,17 @@
   url: http://sunlightfoundation.com/blog/2015/06/01/opengov-voices-how-the-fec-is-making-it-easier-to-follow-the-money/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 50f3699d06c06c0a94702ce22edb5424
-  item_date: "2015-06-08 00:00:00"
-  title: 'Open data without Germany: The G7 Summit and the bumpy road to transparency'
-  url: http://sunlightfoundation.com/blog/2015/06/08/open-data-without-germany-the-g7-summit-and-the-bumpy-road-to-transparency/
-  domain: sunlightfoundation.com
-  image: ""
 - curated_id: 2370b7cc8025c308ed18b86c83d6f15e
   item_date: "2015-06-08 00:00:00"
   title: How DATA Act implementation is opening up federal spending
   url: https://18f.gsa.gov/2015/06/09/data-act-data-act-explainer/
   domain: 18f.gsa.gov
+  image: ""
+- curated_id: 50f3699d06c06c0a94702ce22edb5424
+  item_date: "2015-06-08 00:00:00"
+  title: 'Open data without Germany: The G7 Summit and the bumpy road to transparency'
+  url: http://sunlightfoundation.com/blog/2015/06/08/open-data-without-germany-the-g7-summit-and-the-bumpy-road-to-transparency/
+  domain: sunlightfoundation.com
   image: ""
 - curated_id: f8a3abd65c2ef6fe6f19ed58a0db8397
   item_date: "2015-06-09 00:00:00"
@@ -432,22 +432,16 @@
   url: http://www.businessinsider.com/the-ana-puts-out-rfp-for-research-agency-into-transparency-issue-2015-6
   domain: www.businessinsider.com
   image: ""
-- curated_id: 5820dc1f2ca1a9716e001191af9bd856
-  item_date: "2015-06-23 00:00:00"
-  title: Growing chorus calling for CRS reports to be open to the public
-  url: http://sunlightfoundation.com/blog/2015/06/24/growing-chorus-calling-for-crs-reports-to-be-open-to-the-public/
-  domain: sunlightfoundation.com
-  image: ""
 - curated_id: da8f2f47eab51b4d69987c2eaae6723d
   item_date: "2015-06-23 00:00:00"
   title: 'Donor demographics: old white guys edition, part II'
   url: http://www.opensecrets.org/news/2015/06/donor-demographics-old-white-guys-edition-part-ii/
   domain: www.opensecrets.org
   image: ""
-- curated_id: 7b1219e71300342faa97efe83bd1359b
-  item_date: "2015-06-24 00:00:00"
-  title: We need a sharper focus on money in politics
-  url: http://sunlightfoundation.com/blog/2015/06/25/we-need-a-sharper-focus-on-money-in-politics/
+- curated_id: 5820dc1f2ca1a9716e001191af9bd856
+  item_date: "2015-06-23 00:00:00"
+  title: Growing chorus calling for CRS reports to be open to the public
+  url: http://sunlightfoundation.com/blog/2015/06/24/growing-chorus-calling-for-crs-reports-to-be-open-to-the-public/
   domain: sunlightfoundation.com
   image: ""
 - curated_id: d42fa36307fb9fbda9b40092b7e2efa7
@@ -455,6 +449,12 @@
   title: 'Congress to President Obama: Make government contractors disclose political
     spending'
   url: http://sunlightfoundation.com/blog/2015/06/24/congress-to-president-obama-make-government-contractors-disclose-political-spending/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: 7b1219e71300342faa97efe83bd1359b
+  item_date: "2015-06-24 00:00:00"
+  title: We need a sharper focus on money in politics
+  url: http://sunlightfoundation.com/blog/2015/06/25/we-need-a-sharper-focus-on-money-in-politics/
   domain: sunlightfoundation.com
   image: ""
 - curated_id: 71aaaa90c2fdc4245ae39d8d6183d511
@@ -501,18 +501,18 @@
   url: http://www.huffingtonpost.com/entry/with-release-to-one-release-to-all-us-pilots-new-freedom-of-information-policy_us_559f1661e4b05b1d0290135b
   domain: www.huffingtonpost.com
   image: ""
-- curated_id: 57eb0e8efae3b82c55c180366d792021
-  item_date: "2015-08-11 00:00:00"
-  title: 'Expanding the scope of our #Transparency Report'
-  url: https://blog.twitter.com/2015/expanding-the-scope
-  domain: blog.twitter.com
-  image: ""
 - curated_id: 1d31a6950c4286751412cdd77c07325b
   item_date: "2015-08-11 00:00:00"
   title: Twitter increases scope of its transparency reports as governments keep requesting
     more data
   url: http://thenextweb.com/twitter/2015/08/11/twitter-increases-scope-of-its-transparency-reports-as-governments-keep-requesting-more-data/
   domain: thenextweb.com
+  image: ""
+- curated_id: 57eb0e8efae3b82c55c180366d792021
+  item_date: "2015-08-11 00:00:00"
+  title: 'Expanding the scope of our #Transparency Report'
+  url: https://blog.twitter.com/2015/expanding-the-scope
+  domain: blog.twitter.com
   image: ""
 - curated_id: 75b844499d91e578bb628ea0a9fbd816
   item_date: "2015-08-12 14:44:10"
@@ -526,17 +526,17 @@
   url: https://www.socrata.com/blog/why-open-the-books/
   domain: www.socrata.com
   image: ""
-- curated_id: cf125a25ccb3b8484803572e1307eda8
-  item_date: "2015-08-24 00:00:00"
-  title: Financial Transparency Checklist  ? 10 Steps to Get It Right!
-  url: https://www.socrata.com/financial-transparency-checklist-10-steps-to-get-it-right/
-  domain: www.socrata.com
-  image: ""
 - curated_id: 6c703503ec1fa3daff79aaf6aeb391ed
   item_date: "2015-08-24 00:00:00"
   title: Open Data For Transparency ? Contract Compliance?
   url: http://blog.ouseful.info/2015/08/24/open-data-for-transparency-contract-compliance/
   domain: blog.ouseful.info
+  image: ""
+- curated_id: cf125a25ccb3b8484803572e1307eda8
+  item_date: "2015-08-24 00:00:00"
+  title: Financial Transparency Checklist  ? 10 Steps to Get It Right!
+  url: https://www.socrata.com/financial-transparency-checklist-10-steps-to-get-it-right/
+  domain: www.socrata.com
   image: ""
 - curated_id: 9cac89b9947f6fd9e4f5909f20213a92
   item_date: "2015-08-25 00:00:00"
@@ -660,17 +660,17 @@
   url: http://sunlightfoundation.com/blog/2016/01/22/members-of-congress-urge-fcc-to-enforce-political-ad-disclosure/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 1b9b6a8a60828d6f00abdde70273f9f6
-  item_date: "2016-01-26 00:00:00"
-  title: Knight News Challenge winners focus on data and transparency
-  url: http://www.niemanlab.org/2016/01/knight-news-challenge-winners-focus-on-data-and-transparency/
-  domain: www.niemanlab.org
-  image: ""
 - curated_id: eaaae567280ee9fbde3537cb966d8130
   item_date: "2016-01-26 00:00:00"
   title: Regulatory  market pressure forcing transparency on equities research
   url: http://bankinnovation.net/2016/01/regulatory-market-pressure-forcing-transparency-on-equities-research/
   domain: bankinnovation.net
+  image: ""
+- curated_id: 1b9b6a8a60828d6f00abdde70273f9f6
+  item_date: "2016-01-26 00:00:00"
+  title: Knight News Challenge winners focus on data and transparency
+  url: http://www.niemanlab.org/2016/01/knight-news-challenge-winners-focus-on-data-and-transparency/
+  domain: www.niemanlab.org
   image: ""
 - curated_id: 7f2b8535c0fc7eabcf59847c09003773
   item_date: "2016-01-28 00:00:00"
@@ -759,18 +759,18 @@
   url: http://www.open-contracting.org/resources/transparency-in-land-based-investment-key-questions-and-next-steps/
   domain: www.open-contracting.org
   image: ""
+- curated_id: 13aaf5f176be4dc1e626b83e28e3c8bb
+  item_date: "2016-03-15 00:00:00"
+  title: Googles HTTPS encryption efforts now on display in Transparency Report
+  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4e48caf2/sc/28/l/0L0Szdnet0N0Carticle0Cgoogles0Ehttps0Eencryption0Eefforts0Enow0Eon0Edisplay0Ein0Etransparency0Ereport0C0Tftag0FRSSbaffb68/story01.htm
+  domain: zdnet.com.feedsportal.com
+  image: ""
 - curated_id: de1a121e0fe319a34714212bb75a84cb
   item_date: "2016-03-15 00:00:00"
   title: 'International Open Data Day Stockholm 2016 Part III: Exploring Value Creation
     through Transparency'
   url: http://se.okfn.org/2016/03/15/international-open-data-day-stockholm-2016-part-iii-exploring-value-creation-through-transparency/
   domain: se.okfn.org
-  image: ""
-- curated_id: 13aaf5f176be4dc1e626b83e28e3c8bb
-  item_date: "2016-03-15 00:00:00"
-  title: Googles HTTPS encryption efforts now on display in Transparency Report
-  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4e48caf2/sc/28/l/0L0Szdnet0N0Carticle0Cgoogles0Ehttps0Eencryption0Eefforts0Enow0Eon0Edisplay0Ein0Etransparency0Ereport0C0Tftag0FRSSbaffb68/story01.htm
-  domain: zdnet.com.feedsportal.com
   image: ""
 - curated_id: 93287f892aa9a66c31c3e44f53247cb6
   item_date: "2016-03-16 00:00:00"
@@ -835,24 +835,6 @@
   url: https://postmarkapp.com/blog/delivery-performance-and-transparency
   domain: postmarkapp.com
   image: ""
-- curated_id: a48a891c73a8170ba0e4a2c16fffd69a
-  item_date: "2016-04-06 00:00:00"
-  title: Why are there so many anonymous corporations in Delaware?
-  url: http://sunlightfoundation.com/blog/2016/04/06/why-are-there-so-many-anonymous-corporations-in-delaware/
-  domain: sunlightfoundation.com
-  image: ""
-- curated_id: eb322c748cff6ee0e52fdf1a4a16de0d
-  item_date: "2016-04-06 00:00:00"
-  title: Why the Panama Papers are a good thing for hackers ? and the rest of us
-  url: http://thenextweb.com/insider/2016/04/06/panama-papers-much-important-wikileaks/
-  domain: thenextweb.com
-  image: ""
-- curated_id: c5c9e950fed5c38c1726ef33cd338214
-  item_date: "2016-04-06 00:00:00"
-  title: Mapping Corruption in the Panama Papers with Open Data
-  url: https://blog.scrapinghub.com/2016/04/06/how-to-become-a-whistleblower-from-panama-papers-to-open-data/
-  domain: blog.scrapinghub.com
-  image: ""
 - curated_id: 3e3eaae4b22703c2bf09b8a29d425b37
   item_date: "2016-04-06 00:00:00"
   title: Dark money group spends $200,000 on ads opposing Puerto Rico debt relief
@@ -866,6 +848,24 @@
   url: http://knowledge.wharton.upenn.edu/article/confalon-nichols-panama-papers/
   domain: knowledge.wharton.upenn.edu
   image: ""
+- curated_id: c5c9e950fed5c38c1726ef33cd338214
+  item_date: "2016-04-06 00:00:00"
+  title: Mapping Corruption in the Panama Papers with Open Data
+  url: https://blog.scrapinghub.com/2016/04/06/how-to-become-a-whistleblower-from-panama-papers-to-open-data/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: a48a891c73a8170ba0e4a2c16fffd69a
+  item_date: "2016-04-06 00:00:00"
+  title: Why are there so many anonymous corporations in Delaware?
+  url: http://sunlightfoundation.com/blog/2016/04/06/why-are-there-so-many-anonymous-corporations-in-delaware/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: eb322c748cff6ee0e52fdf1a4a16de0d
+  item_date: "2016-04-06 00:00:00"
+  title: Why the Panama Papers are a good thing for hackers ? and the rest of us
+  url: http://thenextweb.com/insider/2016/04/06/panama-papers-much-important-wikileaks/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 0a04cca3651f413e9db0e2ca49f2782f
   item_date: "2016-04-07 00:00:00"
   title: 'OpenGov Voices: Honoring transparency improvements from inside Congress'
@@ -878,23 +878,17 @@
   url: https://blog.ouseful.info/2016/04/10/panama-papers-quick-start-in-sqlite3/
   domain: blog.ouseful.info
   image: ""
-- curated_id: 7d8a5083c2c4bc3fc79f1a813ac56e81
-  item_date: "2016-04-12 00:00:00"
-  title: European Union Calls for Big Companies to Disclose More Tax Data
-  url: http://www.nytimes.com/2016/04/13/business/international/european-union-corporate-taxes.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 4349201051c66c5716fb970cd4cc976d
   item_date: "2016-04-12 00:00:00"
   title: Unveiling Uber?s Transparency Report
   url: https://medium.com/@UberPubPolicy/unveiling-uber-s-transparency-report-1a27d41e9e41
   domain: medium.com
   image: ""
-- curated_id: 38798191e06669842aaf1dd9f8541fcd
-  item_date: "2016-04-14 00:00:00"
-  title: My Perspective on the White House?s Open Budget
-  url: https://www.socrata.com/blog/perspective-white-houses-open-budget/
-  domain: www.socrata.com
+- curated_id: 7d8a5083c2c4bc3fc79f1a813ac56e81
+  item_date: "2016-04-12 00:00:00"
+  title: European Union Calls for Big Companies to Disclose More Tax Data
+  url: http://www.nytimes.com/2016/04/13/business/international/european-union-corporate-taxes.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 702052efa4e4a0f3a95329f7775aa56c
   item_date: "2016-04-14 00:00:00"
@@ -902,11 +896,17 @@
   url: http://sunlightfoundation.com/blog/2016/04/14/congress-to-consider-making-open-data-the-default-in-federal-government/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: d56e5c3b717fab6ea188f1cee7435922
+- curated_id: 38798191e06669842aaf1dd9f8541fcd
+  item_date: "2016-04-14 00:00:00"
+  title: My Perspective on the White House?s Open Budget
+  url: https://www.socrata.com/blog/perspective-white-houses-open-budget/
+  domain: www.socrata.com
+  image: ""
+- curated_id: 9dd36f985400698f6ddd9aac6c9e3fd2
   item_date: "2016-04-19 00:00:00"
-  title: Viber says it?s now encrypted, but won?t tell us how secure our chats are
-  url: http://thenextweb.com/insider/2016/04/19/viber-says-its-now-encrypted-but-wont-tell-us-how-secure-chats-are/
-  domain: thenextweb.com
+  title: Is It Possible to Defog America?s Corporate Financial Reports?
+  url: http://knowledge.wharton.upenn.edu/article/possible-defog-americas-corporate-financial-reports/
+  domain: knowledge.wharton.upenn.edu
   image: ""
 - curated_id: 030d50413a7fc08bc28153fb391051d6
   item_date: "2016-04-19 00:00:00"
@@ -915,11 +915,11 @@
   url: http://thenextweb.com/apple/2016/04/19/apple-transparency-report-reveals-four-fold-increase-secret-us-government-orders/
   domain: thenextweb.com
   image: ""
-- curated_id: 9dd36f985400698f6ddd9aac6c9e3fd2
+- curated_id: d56e5c3b717fab6ea188f1cee7435922
   item_date: "2016-04-19 00:00:00"
-  title: Is It Possible to Defog America?s Corporate Financial Reports?
-  url: http://knowledge.wharton.upenn.edu/article/possible-defog-americas-corporate-financial-reports/
-  domain: knowledge.wharton.upenn.edu
+  title: Viber says it?s now encrypted, but won?t tell us how secure our chats are
+  url: http://thenextweb.com/insider/2016/04/19/viber-says-its-now-encrypted-but-wont-tell-us-how-secure-chats-are/
+  domain: thenextweb.com
   image: ""
 - curated_id: e6813321c86c242a00d3ff99ad7cb459
   item_date: "2016-04-20 00:00:00"
@@ -939,29 +939,29 @@
   url: https://www.muckrock.com/news/archives/2014/mar/27/bureau-prisons-refuses-name-businesses-employ-pris/
   domain: www.muckrock.com
   image: ""
-- curated_id: e755239945ba0e3323f3ead8cb8c1b56
-  item_date: "2016-05-03 00:00:00"
-  title: The World Bank is again in the top 10 of the Aid Transparency Index
-  url: http://blogs.worldbank.org/opendata/world-bank-again-top-10-aid-transparency-index
-  domain: blogs.worldbank.org
-  image: ""
 - curated_id: f95df688223bd62e03879f4091d901ae
   item_date: "2016-05-03 00:00:00"
   title: Big data openness means a lot more than just open data
   url: http://disruptiveviews.com/big-data-openness-means-lot-just-open-data/
   domain: disruptiveviews.com
   image: ""
-- curated_id: bd9980d01d18b267f15bbd1623a3e5cc
-  item_date: "2016-05-10 00:00:00"
-  title: Two surprising companies lead the pack in user data privacy and transparency
-  url: http://www.businessinsider.com/uber-leads-in-user-privacy-and-data-transparency-2016-5
-  domain: www.businessinsider.com
+- curated_id: e755239945ba0e3323f3ead8cb8c1b56
+  item_date: "2016-05-03 00:00:00"
+  title: The World Bank is again in the top 10 of the Aid Transparency Index
+  url: http://blogs.worldbank.org/opendata/world-bank-again-top-10-aid-transparency-index
+  domain: blogs.worldbank.org
   image: ""
 - curated_id: a31690d8b67cf72559f02273876ad100
   item_date: "2016-05-10 00:00:00"
   title: Offshore Leaks Database ? A search engine for Panama papers
   url: https://offshoreleaks.icij.org/
   domain: offshoreleaks.icij.org
+  image: ""
+- curated_id: bd9980d01d18b267f15bbd1623a3e5cc
+  item_date: "2016-05-10 00:00:00"
+  title: Two surprising companies lead the pack in user data privacy and transparency
+  url: http://www.businessinsider.com/uber-leads-in-user-privacy-and-data-transparency-2016-5
+  domain: www.businessinsider.com
   image: ""
 - curated_id: d741ed434d0d269beb77a4748c99b380
   item_date: "2016-05-12 00:00:00"
@@ -999,28 +999,22 @@
   url: http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 5cd112175b0459db328ce90a74234909
-  item_date: "2016-05-23 00:00:00"
-  title: Algorithm Visualizer ? Write down your algorithm to be visualized
-  url: http://jasonpark.me/AlgorithmVisualizer/
-  domain: jasonpark.me
-  image: ""
 - curated_id: 0c5a0b110d8f511a4b4fec313239c981
   item_date: "2016-05-23 00:00:00"
   title: Transparency - How do I do it?
   url: http://sunlightfoundation.com/blog/2016/05/23/transparency-how-do-i-do-it/
   domain: sunlightfoundation.com
   image: ""
+- curated_id: 5cd112175b0459db328ce90a74234909
+  item_date: "2016-05-23 00:00:00"
+  title: Algorithm Visualizer ? Write down your algorithm to be visualized
+  url: http://jasonpark.me/AlgorithmVisualizer/
+  domain: jasonpark.me
+  image: ""
 - curated_id: 91386bdfc0eea03a51e59f6f46fdcd88
   item_date: "2016-05-25 00:00:00"
   title: 'A Welcome Trend in American Healthcare: Pricing Transparency'
   url: https://blog.pokitdok.com/pricing-transparency/
-  domain: blog.pokitdok.com
-  image: ""
-- curated_id: 661995729c74d7a8cfe0ca821bec0a78
-  item_date: "2016-06-01 00:00:00"
-  title: Three States Where Transparent Healthcare Pricing Caught On Early
-  url: https://blog.pokitdok.com/transparent-healthcare-pricing/
   domain: blog.pokitdok.com
   image: ""
 - curated_id: 305a94465610f4f2f8d3a13f89154577
@@ -1030,17 +1024,23 @@
   url: http://www.opensecrets.org/news/2016/06/wall-streets-fab-five-the-house-candidates-most-dependent-on-the-finance-industry/
   domain: www.opensecrets.org
   image: ""
-- curated_id: c54d250129642f184955a06a90f7a3c3
-  item_date: "2016-06-03 00:00:00"
-  title: Bringing Transparency, Visibility to NDC Deployments
-  url: http://worldfreightfocus.com/2016/06/bringing-transparency-visibility-to-ndc-deployments/
-  domain: worldfreightfocus.com
+- curated_id: 661995729c74d7a8cfe0ca821bec0a78
+  item_date: "2016-06-01 00:00:00"
+  title: Three States Where Transparent Healthcare Pricing Caught On Early
+  url: https://blog.pokitdok.com/transparent-healthcare-pricing/
+  domain: blog.pokitdok.com
   image: ""
 - curated_id: 103633d7730c01bc654bc82cf2071cc8
   item_date: "2016-06-03 00:00:00"
   title: The Panama Papers Graph Database Is Now Available for Download
   url: https://dzone.com/articles/the-panama-papers-graph-database-is-now-available
   domain: dzone.com
+  image: ""
+- curated_id: c54d250129642f184955a06a90f7a3c3
+  item_date: "2016-06-03 00:00:00"
+  title: Bringing Transparency, Visibility to NDC Deployments
+  url: http://worldfreightfocus.com/2016/06/bringing-transparency-visibility-to-ndc-deployments/
+  domain: worldfreightfocus.com
   image: ""
 - curated_id: 6f025729875379f28e5c0cbcfa4803ef
   item_date: "2016-06-05 00:00:00"
@@ -1091,16 +1091,16 @@
   url: https://www.whitehouse.gov/the-press-office/2016/06/30/fact-sheet-new-steps-toward-ensuring-openness-and-transparency
   domain: www.whitehouse.gov
   image: ""
-- curated_id: fb8720b02fdda3219e8b50a805e6f99c
-  item_date: "2016-07-08 00:00:00"
-  title: 'Today in OpenGov: House continues inaction on dark money'
-  url: http://sunlightfoundation.com/blog/2016/07/08/today-in-opengov-house-continues-inaction-on-dark-money/
-  domain: sunlightfoundation.com
-  image: ""
 - curated_id: 619dff8c22c1238749ab9a1a5c33a410
   item_date: "2016-07-08 00:00:00"
   title: Federal court ruling extends FOIAs reach to private messaging systems
   url: http://sunlightfoundation.com/blog/2016/07/08/federal-court-ruling-extends-foias-reach-to-private-messaging-systems/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: fb8720b02fdda3219e8b50a805e6f99c
+  item_date: "2016-07-08 00:00:00"
+  title: 'Today in OpenGov: House continues inaction on dark money'
+  url: http://sunlightfoundation.com/blog/2016/07/08/today-in-opengov-house-continues-inaction-on-dark-money/
   domain: sunlightfoundation.com
   image: ""
 - curated_id: 45d6ce2c6d029db8a5b1839b13205039
@@ -1109,11 +1109,11 @@
   url: http://sunlightfoundation.com/blog/2016/07/13/fec-fines-koch-groups-for-illegal-dark-money/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: cd9f87abe0f94cdfc3839f7a112e6f91
+- curated_id: b6f4bee4d42d7084e4d67cc77038a64b
   item_date: "2016-07-14 00:00:00"
-  title: Data Can Dramatically Enhance County Services and Accountability
-  url: http://datasmart.ash.harvard.edu/news/article/data-can-dramatically-enhance-county-services-and-accountability-868
-  domain: datasmart.ash.harvard.edu
+  title: Governments should use FOIA demand to drive open data disclosure
+  url: http://sunlightfoundation.com/blog/2016/07/14/governments-should-use-foia-demand-to-drive-open-data-disclosure/
+  domain: sunlightfoundation.com
   image: ""
 - curated_id: 45a42013e43bb1b810d7a7142833f313
   item_date: "2016-07-14 00:00:00"
@@ -1121,11 +1121,11 @@
   url: http://sunlightfoundation.com/blog/2016/07/14/today-in-opengov-use-foia-demand-to-drive-open-data-disclosure/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: b6f4bee4d42d7084e4d67cc77038a64b
+- curated_id: cd9f87abe0f94cdfc3839f7a112e6f91
   item_date: "2016-07-14 00:00:00"
-  title: Governments should use FOIA demand to drive open data disclosure
-  url: http://sunlightfoundation.com/blog/2016/07/14/governments-should-use-foia-demand-to-drive-open-data-disclosure/
-  domain: sunlightfoundation.com
+  title: Data Can Dramatically Enhance County Services and Accountability
+  url: http://datasmart.ash.harvard.edu/news/article/data-can-dramatically-enhance-county-services-and-accountability-868
+  domain: datasmart.ash.harvard.edu
   image: ""
 - curated_id: ec117b17cc9e4ae43153b0bb7a254b96
   item_date: "2016-07-14 09:10:24"
@@ -1202,6 +1202,12 @@
   url: https://blog.adafruit.com/2016/08/01/how-an-open-data-blogger-proved-the-nypd-issued-parking-tickets-in-error/
   domain: blog.adafruit.com
   image: ""
+- curated_id: 413728fb4f0c0cde250c83906d26d462
+  item_date: "2016-08-02 00:00:00"
+  title: "Hacker Dumps Sensitive Patient Data From Ohio Urology Clinics\r\n"
+  url: http://motherboard.vice.com/read/hacker-dumps-sensitive-patient-data-from-ohio-urology-clinics
+  domain: motherboard.vice.com
+  image: ""
 - curated_id: e84bedbf4743ba5cf9e3848e423e811b
   item_date: "2016-08-02 00:00:00"
   title: Adding YouTube and Calendar to the HTTPS Transparency Report
@@ -1214,18 +1220,19 @@
   url: https://dzone.com/articles/extracting-social-network-graphs-from-dnc-emails
   domain: dzone.com
   image: ""
-- curated_id: 413728fb4f0c0cde250c83906d26d462
-  item_date: "2016-08-02 00:00:00"
-  title: "Hacker Dumps Sensitive Patient Data From Ohio Urology Clinics\r\n"
-  url: http://motherboard.vice.com/read/hacker-dumps-sensitive-patient-data-from-ohio-urology-clinics
-  domain: motherboard.vice.com
-  image: ""
 - curated_id: 068399e61df0f4760bf1ba48e6b9ae9c
   item_date: "2016-08-03 00:00:00"
   title: Federal FOIA Advisory Committee grapples with challenges, technology and
     capacity
   url: http://sunlightfoundation.com/blog/2016/08/03/federal-foia-advisory-committee-grapples-with-challenges-technology-and-capacity/
   domain: sunlightfoundation.com
+  image: ""
+- curated_id: 6d0f683b4c4419a9b8696778e2956770
+  item_date: "2016-08-04 00:00:00"
+  title: Tackling corruption must remain at the core of UK government?s drive for
+    prosperous, stable and secure societies
+  url: http://www.transparency.org.uk/tackling-corruption-must-remain-core-uk-drive-for-prosperous-stable-secure-societies/
+  domain: www.transparency.org.uk
   image: ""
 - curated_id: 34d3fa55c1eb30acc0ccbacd4e89068b
   item_date: "2016-08-04 00:00:00"
@@ -1240,13 +1247,6 @@
   url: https://www.accessnow.org/transparency-matters-europes-trade-negotiations/
   domain: www.accessnow.org
   image: ""
-- curated_id: 6d0f683b4c4419a9b8696778e2956770
-  item_date: "2016-08-04 00:00:00"
-  title: Tackling corruption must remain at the core of UK government?s drive for
-    prosperous, stable and secure societies
-  url: http://www.transparency.org.uk/tackling-corruption-must-remain-core-uk-drive-for-prosperous-stable-secure-societies/
-  domain: www.transparency.org.uk
-  image: ""
 - curated_id: d500b1f7f46adbbed89561a143f3954e
   item_date: "2016-08-05 00:00:00"
   title: Corporate sponsorships of Olympics make political investments look like a
@@ -1260,18 +1260,18 @@
   url: http://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html
   domain: www.nytimes.com
   image: ""
+- curated_id: 8b8fc8b30dc9f41851b14f9423c631f7
+  item_date: "2016-08-08 00:00:00"
+  title: 'Charity Registers and corporate data: the missing link'
+  url: https://blog.opencorporates.com/2016/08/08/charity-registers-and-corporate-data-the-missing-link/
+  domain: blog.opencorporates.com
+  image: ""
 - curated_id: 5a1cddee3ea52950cdc9a81b6eab93fa
   item_date: "2016-08-08 00:00:00"
   title: The Opportunity for API-Driven Algorithmic Transparency at the Mobile Data
     Plan Level
   url: https://dzone.com/articles/the-opportunity-for-api-driven-algorithmic-transpa
   domain: dzone.com
-  image: ""
-- curated_id: 8b8fc8b30dc9f41851b14f9423c631f7
-  item_date: "2016-08-08 00:00:00"
-  title: 'Charity Registers and corporate data: the missing link'
-  url: https://blog.opencorporates.com/2016/08/08/charity-registers-and-corporate-data-the-missing-link/
-  domain: blog.opencorporates.com
   image: ""
 - curated_id: 8d6fed5d7957479de8b6769cc31a8ea3
   item_date: "2016-08-08 11:08:45"
@@ -1456,11 +1456,11 @@
     http://thehill.com/blogs/pundits-blog/homeland-security/296661-for-the-sake-of-transparency-lets-protect-privacy
   domain: thehill.com
   image: ""
-- curated_id: e37cd44b405ceac77705a0d024ef0027
+- curated_id: a1bdb0209fe0171171fdd053fa75120b
   item_date: "2016-09-20 00:00:00"
-  title: 'Transparency in Patent Examination Prosecution: Master Review Form'
-  url: http://www.uspto.gov/blog/director/entry/transparency_in_patent_examination_prosecution
-  domain: www.uspto.gov
+  title: What It Costs to Run Lets Encrypt
+  url: https://letsencrypt.org//2016/09/20/what-it-costs-to-run-lets-encrypt.html
+  domain: letsencrypt.org
   image: ""
 - curated_id: 821c56bfaef14b917832bd3a9cd17991
   item_date: "2016-09-20 00:00:00"
@@ -1468,11 +1468,11 @@
   url: http://sunlightfoundation.com/blog/2016/09/20/statement-from-sunlight-foundations-board-chairman/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: a1bdb0209fe0171171fdd053fa75120b
+- curated_id: e37cd44b405ceac77705a0d024ef0027
   item_date: "2016-09-20 00:00:00"
-  title: What It Costs to Run Lets Encrypt
-  url: https://letsencrypt.org//2016/09/20/what-it-costs-to-run-lets-encrypt.html
-  domain: letsencrypt.org
+  title: 'Transparency in Patent Examination Prosecution: Master Review Form'
+  url: http://www.uspto.gov/blog/director/entry/transparency_in_patent_examination_prosecution
+  domain: www.uspto.gov
   image: ""
 - curated_id: e4973f1c352b5b37a8cf25047ac6dc52
   item_date: "2016-09-20 17:08:05"
@@ -1513,12 +1513,6 @@
   url: http://www.nature.com/ncomms/2016/160926/ncomms12846/full/ncomms12846.html
   domain: www.nature.com
   image: ""
-- curated_id: 0ffb74cb716fa246c781ddee4c8745d6
-  item_date: "2016-09-27 00:00:00"
-  title: Sharing Cybersecurity Threat Intelligence Is The Only Way We Win
-  url: http://www.darkreading.com/partner-perspectives/intel/sharing-cybersecurity-threat-intelligence-is-the-only-way-we-win/a/d-id/1327022
-  domain: www.darkreading.com
-  image: ""
 - curated_id: ad612c0d96c7d502efed901defe64a17
   item_date: "2016-09-27 00:00:00"
   title: Promoting Transparency in Trade Act Would Bring Long-Needed Reforms to the
@@ -1532,11 +1526,11 @@
   url: https://dzone.com/articles/open-data-science-come-to-the-enterprise
   domain: dzone.com
   image: ""
-- curated_id: 9b143796d9f7c48058fc204b2721d84b
-  item_date: "2016-09-28 00:00:00"
-  title: Victory! Gov. Brown Signs Bill to Overhaul Californias Broken Gang Databases
-  url: https://www.eff.org/deeplinks/2016/09/gov-brown-signs-bill-overhaul-californias-broken-gang-databases
-  domain: www.eff.org
+- curated_id: 0ffb74cb716fa246c781ddee4c8745d6
+  item_date: "2016-09-27 00:00:00"
+  title: Sharing Cybersecurity Threat Intelligence Is The Only Way We Win
+  url: http://www.darkreading.com/partner-perspectives/intel/sharing-cybersecurity-threat-intelligence-is-the-only-way-we-win/a/d-id/1327022
+  domain: www.darkreading.com
   image: ""
 - curated_id: bda3f27aa15a5af4101d0b9ab8cda621
   item_date: "2016-09-28 00:00:00"
@@ -1544,17 +1538,23 @@
   url: http://www.oaspectrum.org/faq
   domain: www.oaspectrum.org
   image: ""
-- curated_id: 95618ef0e95c81b1c412b3dda3398cf2
-  item_date: "2016-09-29 00:00:00"
-  title: Empiricism and Transparency
-  url: https://dzone.com/articles/empiricism-and-transparencyquot
-  domain: dzone.com
+- curated_id: 9b143796d9f7c48058fc204b2721d84b
+  item_date: "2016-09-28 00:00:00"
+  title: Victory! Gov. Brown Signs Bill to Overhaul Californias Broken Gang Databases
+  url: https://www.eff.org/deeplinks/2016/09/gov-brown-signs-bill-overhaul-californias-broken-gang-databases
+  domain: www.eff.org
   image: ""
 - curated_id: 1a157b8d6c86df313731b756448e060d
   item_date: "2016-09-29 00:00:00"
   title: A cornerstone of government transparency gets an overhaul
   url: https://gcn.com/articles/2016/09/29/dig-it-federal-it-dashboard.aspx
   domain: gcn.com
+  image: ""
+- curated_id: 95618ef0e95c81b1c412b3dda3398cf2
+  item_date: "2016-09-29 00:00:00"
+  title: Empiricism and Transparency
+  url: https://dzone.com/articles/empiricism-and-transparencyquot
+  domain: dzone.com
   image: ""
 - curated_id: 109e3ce4044b799ec39e9ba9965d6550
   item_date: "2016-09-30 00:00:00"
@@ -1575,12 +1575,6 @@
   url: https://twitter.com/SunFoundation/statuses/783027214845554693
   domain: twitter.com
   image: ""
-- curated_id: bbe633b0aebb5059736b6a71f00475ef
-  item_date: "2016-10-05 00:00:00"
-  title: International salaries at Stack Overflow
-  url: http://blog.stackoverflow.com/2016/10/international-salaries/
-  domain: blog.stackoverflow.com
-  image: ""
 - curated_id: 2444060b9d0c296f0052ecfa333f6a36
   item_date: "2016-10-05 00:00:00"
   title: The Human Rights Principles for Connectivity and Development
@@ -1592,6 +1586,12 @@
   title: "What Really Happens When You FOIA UK Police\r\n"
   url: http://motherboard.vice.com/read/what-happens-when-you-foia-uk-police
   domain: motherboard.vice.com
+  image: ""
+- curated_id: bbe633b0aebb5059736b6a71f00475ef
+  item_date: "2016-10-05 00:00:00"
+  title: International salaries at Stack Overflow
+  url: http://blog.stackoverflow.com/2016/10/international-salaries/
+  domain: blog.stackoverflow.com
   image: ""
 - curated_id: 947532a5a9c18f98fa94e09b63d7570a
   item_date: "2016-10-07 00:00:00"
@@ -1606,6 +1606,18 @@
   url: http://sunlightfoundation.com/blog/2016/10/11/today-in-opengov-github-and-internet-archive-help-preserve-sunlight-more/
   domain: sunlightfoundation.com
   image: ""
+- curated_id: e253351a20957151360183953c731465
+  item_date: "2016-10-12 00:00:00"
+  title: Transparency Missing From the Suppliers of Capital to Fintechs
+  url: http://bankinnovation.net/2016/10/transparency-missing-from-the-suppliers-of-capital-to-fintechs/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 51ad4140c58a5a93efbbff7ee52dc2db
+  item_date: "2016-10-12 00:00:00"
+  title: Lawmakers want UK to set example on transparency in AI decision making
+  url: http://www.pcworld.com/article/3130497/lawmakers-want-uk-to-set-example-on-transparency-in-ai-decision-making.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: f6213d660e9ab05e25d7c514d679fb5f
   item_date: "2016-10-12 00:00:00"
   title: How were wrapping up Sunlight Labs in the open
@@ -1618,18 +1630,6 @@
     numbers
   url: https://techcrunch.com/2016/10/12/googles-latest-transparency-report-sets-more-records-in-government-request-numbers/
   domain: techcrunch.com
-  image: ""
-- curated_id: e253351a20957151360183953c731465
-  item_date: "2016-10-12 00:00:00"
-  title: Transparency Missing From the Suppliers of Capital to Fintechs
-  url: http://bankinnovation.net/2016/10/transparency-missing-from-the-suppliers-of-capital-to-fintechs/
-  domain: bankinnovation.net
-  image: ""
-- curated_id: 51ad4140c58a5a93efbbff7ee52dc2db
-  item_date: "2016-10-12 00:00:00"
-  title: Lawmakers want UK to set example on transparency in AI decision making
-  url: http://www.pcworld.com/article/3130497/lawmakers-want-uk-to-set-example-on-transparency-in-ai-decision-making.html#tk.rss_all
-  domain: www.pcworld.com
   image: ""
 - curated_id: feee19c9a9db6b4d088d0f957bee6271
   item_date: "2016-10-13 00:00:00"
@@ -1690,18 +1690,6 @@
   url: http://www.wsj.com/articles/yahoo-seeks-u-s-declassification-of-data-gathering-efforts-1476916389
   domain: www.wsj.com
   image: ""
-- curated_id: e99a5e8616ca7308af1dc262028a6ac5
-  item_date: "2016-10-20 00:00:00"
-  title: 'Yahoo Demands Government Be More Transparent About Data Requests  '
-  url: http://www.darkreading.com/cloud/yahoo-demands-government-be-more-transparent-about-data-requests--/d/d-id/1327231
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 788436fa133ffb98d6978d50faa72948
-  item_date: "2016-10-20 00:00:00"
-  title: What is the Open Fiscal Data Package?
-  url: http://blog.okfn.org/2016/10/20/what-is-the-open-fiscal-data-package/
-  domain: blog.okfn.org
-  image: ""
 - curated_id: 935aa4363cb52099f660d82b32a65bfe
   item_date: "2016-10-20 00:00:00"
   title: Yahoo, ACLU press US feds to disclose email snooping orders, surveillance
@@ -1709,18 +1697,30 @@
   url: http://www.zdnet.com/article/yahoo-aclu-press-us-feds-to-disclose-email-snooping-orders-surveillance-laws/
   domain: www.zdnet.com
   image: ""
-- curated_id: e767e77809905284878a3a1ac43178b1
-  item_date: "2016-11-01 00:00:00"
-  title: Pennsylvania Is on the Verge of Enacting a Bill That Could Hide the Identities
-    of Cops Who Use Excessive Force
-  url: https://www.aclu.org/blog/speak-freely/pennsylvania-verge-enacting-bill-could-hide-identities-cops-who-use-excessive
-  domain: www.aclu.org
+- curated_id: 788436fa133ffb98d6978d50faa72948
+  item_date: "2016-10-20 00:00:00"
+  title: What is the Open Fiscal Data Package?
+  url: http://blog.okfn.org/2016/10/20/what-is-the-open-fiscal-data-package/
+  domain: blog.okfn.org
+  image: ""
+- curated_id: e99a5e8616ca7308af1dc262028a6ac5
+  item_date: "2016-10-20 00:00:00"
+  title: 'Yahoo Demands Government Be More Transparent About Data Requests  '
+  url: http://www.darkreading.com/cloud/yahoo-demands-government-be-more-transparent-about-data-requests--/d/d-id/1327231
+  domain: www.darkreading.com
   image: ""
 - curated_id: 61ee0c3e1fab8fe2c78f89f40393a07f
   item_date: "2016-11-01 00:00:00"
   title: 'Politwoops gets a new public interest parent: ProPublica'
   url: https://techcrunch.com/2016/11/01/politwoops-gets-a-new-public-interest-parent-propublica/
   domain: techcrunch.com
+  image: ""
+- curated_id: e767e77809905284878a3a1ac43178b1
+  item_date: "2016-11-01 00:00:00"
+  title: Pennsylvania Is on the Verge of Enacting a Bill That Could Hide the Identities
+    of Cops Who Use Excessive Force
+  url: https://www.aclu.org/blog/speak-freely/pennsylvania-verge-enacting-bill-could-hide-identities-cops-who-use-excessive
+  domain: www.aclu.org
   image: ""
 - curated_id: 7155d6555f0dc8512b8c50944be20905
   item_date: "2016-11-02 00:00:00"
@@ -1770,6 +1770,12 @@
   url: http://www.niemanlab.org/2016/12/baking-transparency-into-our-routines/
   domain: www.niemanlab.org
   image: ""
+- curated_id: 0a708b1e401dd08537306c12ed7d642f
+  item_date: "2017-01-03 00:00:00"
+  title: How Do We Ensure Transparent and Trustworthy AI in Fintech?
+  url: http://bankinnovation.net/2017/01/how-do-we-ensure-transparent-and-trustworthy-ai-in-fintech/
+  domain: bankinnovation.net
+  image: ""
 - curated_id: c1d17e1db12b8e668838c66cca0aa9ed
   item_date: "2017-01-03 00:00:00"
   title: "WikiLeaks hints at potential releases in 2017 warning \u2018prepare for
@@ -1777,23 +1783,17 @@
   url: http://www.itsecurityguru.org/2017/01/03/wikileaks-hints-potential-releases-2017-warning-prepare-showdown/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 0a708b1e401dd08537306c12ed7d642f
-  item_date: "2017-01-03 00:00:00"
-  title: How Do We Ensure Transparent and Trustworthy AI in Fintech?
-  url: http://bankinnovation.net/2017/01/how-do-we-ensure-transparent-and-trustworthy-ai-in-fintech/
-  domain: bankinnovation.net
+- curated_id: e4dc4af2ae47ec7abaeb378b3b7a3b2a
+  item_date: "2017-01-04 00:00:00"
+  title: Development Seed, Annual Report
+  url: http://www.developmentseed.org/blog/2017/01/05/annual-report/
+  domain: www.developmentseed.org
   image: ""
 - curated_id: 31e0ca0db2709e4a4932a789228f5883
   item_date: "2017-01-04 00:00:00"
   title: USPTO Releases its 2016 Performance and Accountability Report
   url: https://www.uspto.gov/blog/director/entry/uspto_releases_its_fy_2016
   domain: www.uspto.gov
-  image: ""
-- curated_id: e4dc4af2ae47ec7abaeb378b3b7a3b2a
-  item_date: "2017-01-04 00:00:00"
-  title: Development Seed, Annual Report
-  url: http://www.developmentseed.org/blog/2017/01/05/annual-report/
-  domain: www.developmentseed.org
   image: ""
 - curated_id: bbc1769fb95327d5019dc40a9ccd984b
   item_date: "2017-01-10 00:00:00"
@@ -1807,17 +1807,17 @@
   url: https://fcw.com/articles/2017/01/11/fbopen-closed-rockwell.aspx
   domain: fcw.com
   image: ""
-- curated_id: 8a34e439ae2a4eaf6530a93e0d68187f
-  item_date: "2017-01-12 00:00:00"
-  title: USPTO 2016 Performance and Accountability Report
-  url: http://patentlyo.com/patent/2017/01/performance-accountability-report.html
-  domain: patentlyo.com
-  image: ""
 - curated_id: 85feb106c597c631727fc42c66c42622
   item_date: "2017-01-12 00:00:00"
   title: Security Through Transparency
   url: https://security.googleblog.com/2017/01/security-through-transparency.html
   domain: security.googleblog.com
+  image: ""
+- curated_id: 8a34e439ae2a4eaf6530a93e0d68187f
+  item_date: "2017-01-12 00:00:00"
+  title: USPTO 2016 Performance and Accountability Report
+  url: http://patentlyo.com/patent/2017/01/performance-accountability-report.html
+  domain: patentlyo.com
   image: ""
 - curated_id: 43143e93320cbedd2f8938e73ffb41e0
   item_date: "2017-01-12 11:03:00"
@@ -1826,17 +1826,17 @@
   url: https://github.com/google/key-transparency/
   domain: github.com
   image: ""
-- curated_id: 71e25451fb1c1e14a5f0026bb73b98a1
-  item_date: "2017-01-18 00:00:00"
-  title: 'Transparency Report #23 - Growing JustFreeThemes.com | CodeinWP'
-  url: https://www.codeinwp.com/blog/transparency-report-23/
-  domain: www.codeinwp.com
-  image: ""
 - curated_id: a7a0ea104dae6389386181ac57f57d3b
   item_date: "2017-01-18 00:00:00"
   title: Telefonica opens up as transparency standards improve
   url: https://www.accessnow.org/telefonica-opens-transparency-standards-improve/
   domain: www.accessnow.org
+  image: ""
+- curated_id: 71e25451fb1c1e14a5f0026bb73b98a1
+  item_date: "2017-01-18 00:00:00"
+  title: 'Transparency Report #23 - Growing JustFreeThemes.com | CodeinWP'
+  url: https://www.codeinwp.com/blog/transparency-report-23/
+  domain: www.codeinwp.com
   image: ""
 - curated_id: a20e6ea54eb57035a296612305d618b1
   item_date: "2017-01-19 00:00:00"
@@ -1901,18 +1901,18 @@
   url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
   domain: blog.opencorporates.com
   image: ""
+- curated_id: bb77b934b00f40f68d174aa454069437
+  item_date: "2017-02-10 00:00:00"
+  title: FBI Throws Up Digital Roadblock to Transparency
+  url: https://www.eff.org/deeplinks/2017/02/fbi-throws-digital-roadblock-transparency
+  domain: www.eff.org
+  image: ""
 - curated_id: 40747c19102fe5d81aa8b526a9164191
   item_date: "2017-02-10 00:00:00"
   title: Sen. Wyden presses for more answers as FBI responds to questions about its
     new FOIA system
   url: https://techcrunch.com/2017/02/10/ron-wyden-foia-fbi-efoia-efoipa/
   domain: techcrunch.com
-  image: ""
-- curated_id: bb77b934b00f40f68d174aa454069437
-  item_date: "2017-02-10 00:00:00"
-  title: FBI Throws Up Digital Roadblock to Transparency
-  url: https://www.eff.org/deeplinks/2017/02/fbi-throws-digital-roadblock-transparency
-  domain: www.eff.org
   image: ""
 - curated_id: 8cd8f55b8fdcc5fbe38bae349930f4e7
   item_date: "2017-02-11 19:53:44"
@@ -1934,6 +1934,12 @@
   url: https://twitter.com/SunFoundation/statuses/834193747701329920
   domain: twitter.com
   image: ""
+- curated_id: a4cca7e5cc99d5cebd9beecacfd65d00
+  item_date: "2017-02-23 00:00:00"
+  title: FCC rolls back net neutrality ISP transparency rules
+  url: http://www.pcworld.com/article/3173242/internet/fcc-rolls-back-net-neutrality-isp-transparency-rules.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: b958f028dbbc6b045076190e3824aab0
   item_date: "2017-02-23 00:00:00"
   title: Lawsuit forces DoJ to admit that Obama administration sneakily killed transparency
@@ -1941,23 +1947,17 @@
   url: http://boingboing.net/2017/02/23/thanks-obama.html
   domain: boingboing.net
   image: ""
-- curated_id: a4cca7e5cc99d5cebd9beecacfd65d00
-  item_date: "2017-02-23 00:00:00"
-  title: FCC rolls back net neutrality ISP transparency rules
-  url: http://www.pcworld.com/article/3173242/internet/fcc-rolls-back-net-neutrality-isp-transparency-rules.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: 46e2ef8b79a5299e532ffe53d98770a9
-  item_date: "2017-02-24 00:00:00"
-  title: California Law Enforcement Union Sues To Block Police Accountability
-  url: https://www.techdirt.com/articles/20170223/13095236780/california-law-enforcement-union-sues-to-block-police-accountability.shtml
-  domain: www.techdirt.com
-  image: ""
 - curated_id: 9e3a5e6b06425645668027ec4056c644
   item_date: "2017-02-24 00:00:00"
   title: Federal Election Commission Member Quits, Says Agency Refuses To Address
     Campaign Finance Violations
   url: https://www.techdirt.com/articles/20170223/14592436781/federal-election-commission-member-quits-says-agency-refuses-to-address-campaign-finance-violations.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 46e2ef8b79a5299e532ffe53d98770a9
+  item_date: "2017-02-24 00:00:00"
+  title: California Law Enforcement Union Sues To Block Police Accountability
+  url: https://www.techdirt.com/articles/20170223/13095236780/california-law-enforcement-union-sues-to-block-police-accountability.shtml
   domain: www.techdirt.com
   image: ""
 - curated_id: aa6dee1e47a99ed538e75ed304d064ec
@@ -1973,23 +1973,17 @@
   url: https://creativecommons.org/2017/03/03/law-free-law-projects-radical-approach-legal-transparency/
   domain: creativecommons.org
   image: ""
-- curated_id: 5b5ffe95f27e43302c0269bb016d8dfd
-  item_date: "2017-03-08 00:00:00"
-  title: "Google\u2019s Pragmatic Approach to the Truth, and Its Pitfalls"
-  url: http://streetfightmag.com/2017/03/08/googles-pragmatic-approach-to-the-truth-and-its-pitfalls/
-  domain: streetfightmag.com
-  image: ""
 - curated_id: 2746ef1bbdd729bfcfc4ea73fc9a167c
   item_date: "2017-03-08 00:00:00"
   title: "How does open company data impact women\u2019s\_rights?"
   url: https://blog.opencorporates.com/2017/03/08/how-does-open-company-data-impact-womens-rights/
   domain: blog.opencorporates.com
   image: ""
-- curated_id: 5047aa435b5bd53102bb903be2ab7975
-  item_date: "2017-03-15 00:00:00"
-  title: "Transparency in Parliament\u2026 And in Data Journalism?"
-  url: https://blog.ouseful.info/2017/03/15/transparency-in-parliament-and-in-data-journalism/
-  domain: blog.ouseful.info
+- curated_id: 5b5ffe95f27e43302c0269bb016d8dfd
+  item_date: "2017-03-08 00:00:00"
+  title: "Google\u2019s Pragmatic Approach to the Truth, and Its Pitfalls"
+  url: http://streetfightmag.com/2017/03/08/googles-pragmatic-approach-to-the-truth-and-its-pitfalls/
+  domain: streetfightmag.com
   image: ""
 - curated_id: 33049fe7d32b2488e07e0e51dd513914
   item_date: "2017-03-15 00:00:00"
@@ -1998,29 +1992,17 @@
   url: http://www.niemanlab.org/2017/03/foia-the-dead-uses-the-new-york-times-obituaries-to-shine-a-light-on-fbi-surveillance-for-the-living/
   domain: www.niemanlab.org
   image: ""
+- curated_id: 5047aa435b5bd53102bb903be2ab7975
+  item_date: "2017-03-15 00:00:00"
+  title: "Transparency in Parliament\u2026 And in Data Journalism?"
+  url: https://blog.ouseful.info/2017/03/15/transparency-in-parliament-and-in-data-journalism/
+  domain: blog.ouseful.info
+  image: ""
 - curated_id: d76e9c88d8634bf42793fca75d64552d
   item_date: "2017-03-20 11:54:33"
   title: Data-driven government improves services  transparency.
   url: https://www.citylab.com/politics/2017/03/what-data-driven-mayors-dont-get/520092/
   domain: www.citylab.com
-  image: ""
-- curated_id: 98c59c2d8652c1128643f2b1b15f94e8
-  item_date: "2017-03-21 00:00:00"
-  title: Arkansas Legislators Want To Make Corporate Whistleblowing Illegal
-  url: https://www.techdirt.com/articles/20170318/13342536948/arkansas-legislators-want-to-make-corporate-whistleblowing-illegal.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: a075d086fbfacf3d61420f777ffd3029
-  item_date: "2017-03-21 00:00:00"
-  title: Twitter Transparency Report Details Escalating Crackdown On Terrorists
-  url: http://www.huffingtonpost.com/entry/twitter-transparency-anti-terrorism-isis_us_58d1691ee4b0be71dcf89b7b
-  domain: www.huffingtonpost.com
-  image: ""
-- curated_id: 1a77940b3d8ff901a6cdcf49b9ebfcc8
-  item_date: "2017-03-21 00:00:00"
-  title: Twitters Transparency Report Isnt Transparent If It Doesnt Address Harassment
-  url: https://motherboard.vice.com/en_us/article/twitters-transparency-report-isnt-transparent-if-it-doesnt-address-harassment
-  domain: motherboard.vice.com
   image: ""
 - curated_id: 1bc1cd09d29cae9a7fd15f8181e3b682
   item_date: "2017-03-21 00:00:00"
@@ -2029,11 +2011,23 @@
   url: https://thenextweb.com/socialmedia/2017/03/21/twitters-tenth-transparency-report-shows-massive-scale-fight-extremism/
   domain: thenextweb.com
   image: ""
-- curated_id: 1c5ba39aacc4350afcc8fbfd2eb28ef7
-  item_date: "2017-03-23 00:00:00"
-  title: What does the Global Laundromat tell us about the need for open company data
-  url: https://blog.opencorporates.com/2017/03/23/what-does-the-global-laundromat-tell-us-about-the-need-for-open-company-data/
-  domain: blog.opencorporates.com
+- curated_id: 1a77940b3d8ff901a6cdcf49b9ebfcc8
+  item_date: "2017-03-21 00:00:00"
+  title: Twitters Transparency Report Isnt Transparent If It Doesnt Address Harassment
+  url: https://motherboard.vice.com/en_us/article/twitters-transparency-report-isnt-transparent-if-it-doesnt-address-harassment
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: a075d086fbfacf3d61420f777ffd3029
+  item_date: "2017-03-21 00:00:00"
+  title: Twitter Transparency Report Details Escalating Crackdown On Terrorists
+  url: http://www.huffingtonpost.com/entry/twitter-transparency-anti-terrorism-isis_us_58d1691ee4b0be71dcf89b7b
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: 98c59c2d8652c1128643f2b1b15f94e8
+  item_date: "2017-03-21 00:00:00"
+  title: Arkansas Legislators Want To Make Corporate Whistleblowing Illegal
+  url: https://www.techdirt.com/articles/20170318/13342536948/arkansas-legislators-want-to-make-corporate-whistleblowing-illegal.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: 3f148088927d1cdda43785310d5e6c3b
   item_date: "2017-03-23 00:00:00"
@@ -2041,23 +2035,29 @@
   url: https://medium.com/@JeffBooth/why-sharing-our-business-secrets-fuelled-my-companys-hyper-growth-edf186692fab
   domain: medium.com
   image: ""
+- curated_id: 1c5ba39aacc4350afcc8fbfd2eb28ef7
+  item_date: "2017-03-23 00:00:00"
+  title: What does the Global Laundromat tell us about the need for open company data
+  url: https://blog.opencorporates.com/2017/03/23/what-does-the-global-laundromat-tell-us-about-the-need-for-open-company-data/
+  domain: blog.opencorporates.com
+  image: ""
 - curated_id: d2dedcd564b565875853935f76f9338f
   item_date: "2017-03-23 20:54:36"
   title: "Brexit will only mean more money laundering scandals like \u2018Global Laundromat\u2019"
   url: http://www.independent.co.uk/voices/global-laundromat-money-laundering-panama-papers-more-scandals-a7644481.html#commentsDiv
   domain: www.independent.co.uk
   image: ""
-- curated_id: 48f6b9ae4c0eaa60aee8260efe0bdaa3
-  item_date: "2017-04-05 00:00:00"
-  title: 'Open Data Day 2017: round table on transparency and corruption in Albania'
-  url: https://blog.okfn.org/2017/04/05/open-data-day-2017-round-table-on-transparency-and-corruption-in-albania/
-  domain: blog.okfn.org
-  image: ""
 - curated_id: 87d8c12cf2fabb3890e4d1e297baa258
   item_date: "2017-04-05 00:00:00"
   title: Cloud financial platform helps promote local government budget transparency
   url: http://americancityandcounty.com/finance/cloud-financial-platform-helps-promote-local-government-budget-transparency
   domain: americancityandcounty.com
+  image: ""
+- curated_id: 48f6b9ae4c0eaa60aee8260efe0bdaa3
+  item_date: "2017-04-05 00:00:00"
+  title: 'Open Data Day 2017: round table on transparency and corruption in Albania'
+  url: https://blog.okfn.org/2017/04/05/open-data-day-2017-round-table-on-transparency-and-corruption-in-albania/
+  domain: blog.okfn.org
   image: ""
 - curated_id: a35469b28e23ca0e28696b564965796a
   item_date: "2017-04-06 08:06:17"
@@ -2078,24 +2078,17 @@
   url: https://maintenance.icann.org/public-comments/ccwg-acct-draft-recs-2017-02-21-en
   domain: maintenance.icann.org
   image: ""
-- curated_id: 3f9ba5e6856a2058da9d85bb99df41b6
-  item_date: "2017-04-07 00:00:00"
-  title: 'Two-thirds of EU travel websites mislead on prices: Commission'
-  url: http://www.reuters.com/article/us-eu-travel-websites-idUSKBN1791HO
-  domain: www.reuters.com
-  image: ""
 - curated_id: e3611eb8cc0714ccc9a553b78121135b
   item_date: "2017-04-07 00:00:00"
   title: 'Open Data Day 2017: Celebrating data use and openness'
   url: https://blog.okfn.org/2017/04/07/open-data-day-2017-celebrating-data-use-and-openness/
   domain: blog.okfn.org
   image: ""
-- curated_id: 2969ed75ddb755391f3d8bccd1cc5c52
-  item_date: "2017-04-12 00:00:00"
-  title: 'Launch: Jedeschule.de promotes transparency within the educational system
-    in Germany'
-  url: https://blog.okfn.org/2017/04/12/launch-jedeschule-de-promotes-transparency-within-the-educational-system-in-germany/
-  domain: blog.okfn.org
+- curated_id: 3f9ba5e6856a2058da9d85bb99df41b6
+  item_date: "2017-04-07 00:00:00"
+  title: 'Two-thirds of EU travel websites mislead on prices: Commission'
+  url: http://www.reuters.com/article/us-eu-travel-websites-idUSKBN1791HO
+  domain: www.reuters.com
   image: ""
 - curated_id: 2171b8f22e6d85b7c7d10995dcdeca88
   item_date: "2017-04-12 00:00:00"
@@ -2104,26 +2097,19 @@
   url: https://www.lawfareblog.com/toward-transparency-legal-position-and-process-and-white-house-obligation-disclose
   domain: www.lawfareblog.com
   image: ""
+- curated_id: 2969ed75ddb755391f3d8bccd1cc5c52
+  item_date: "2017-04-12 00:00:00"
+  title: 'Launch: Jedeschule.de promotes transparency within the educational system
+    in Germany'
+  url: https://blog.okfn.org/2017/04/12/launch-jedeschule-de-promotes-transparency-within-the-educational-system-in-germany/
+  domain: blog.okfn.org
+  image: ""
 - curated_id: be163243ea5443ae0d03e62c7d9a9ca5
   item_date: "2017-04-12 05:57:06"
   title: 'Tweet: RT @knightfdn: Report: Obtaining govt records has gotten more difficult
     in the last 4 years on the state amp;amp; national level https://t.co/vxfRhellip;'
   url: https://twitter.com/knightfdn/status/852129187339087872
   domain: twitter.com
-  image: ""
-- curated_id: d1fbd63e0f66f7a5acbf7d4ef52a28f0
-  item_date: "2017-04-13 00:00:00"
-  title: Microsoft reveals new intelligence requests in transparency report
-  url: |
-    http://thehill.com/policy/technology/328736-microsoft-reveals-new-intelligence-requests-in-transparency-report
-  domain: thehill.com
-  image: ""
-- curated_id: 06cf082b5c6bbfbf7e84e2d9d3c18935
-  item_date: "2017-04-13 00:00:00"
-  title: Microsoft says U.S. foreign intelligence surveillance requests more than
-    doubled
-  url: http://www.reuters.com/article/us-microsoft-surveillance-idUSKBN17F2G7
-  domain: www.reuters.com
   image: ""
 - curated_id: 7488bac4c1f364348825b799a0cc0c02
   item_date: "2017-04-13 00:00:00"
@@ -2137,11 +2123,19 @@
   url: https://blogs.adobe.com/digitaleurope/digital-marketing/transparency-resilience-road-digital-transformation/
   domain: blogs.adobe.com
   image: ""
-- curated_id: 6dd0230d79b993c927eb33684f5ff3ba
-  item_date: "2017-04-14 00:00:00"
-  title: The White House Plans to Keep Visitor Logs Secret
-  url: http://www.motherjones.com/politics/2017/04/white-house-keep-visitor-logs-secret
-  domain: www.motherjones.com
+- curated_id: 06cf082b5c6bbfbf7e84e2d9d3c18935
+  item_date: "2017-04-13 00:00:00"
+  title: Microsoft says U.S. foreign intelligence surveillance requests more than
+    doubled
+  url: http://www.reuters.com/article/us-microsoft-surveillance-idUSKBN17F2G7
+  domain: www.reuters.com
+  image: ""
+- curated_id: d1fbd63e0f66f7a5acbf7d4ef52a28f0
+  item_date: "2017-04-13 00:00:00"
+  title: Microsoft reveals new intelligence requests in transparency report
+  url: |
+    http://thehill.com/policy/technology/328736-microsoft-reveals-new-intelligence-requests-in-transparency-report
+  domain: thehill.com
   image: ""
 - curated_id: bcf568f313a3ef132e01543f03e8432a
   item_date: "2017-04-14 00:00:00"
@@ -2153,6 +2147,12 @@
   item_date: "2017-04-14 00:00:00"
   title: Trump Policy on Visitor Logs Provides Hint to How He Governs
   url: http://www.motherjones.com/kevin-drum/2017/04/trump-policy-visitor-logs-provides-hint-how-he-governs
+  domain: www.motherjones.com
+  image: ""
+- curated_id: 6dd0230d79b993c927eb33684f5ff3ba
+  item_date: "2017-04-14 00:00:00"
+  title: The White House Plans to Keep Visitor Logs Secret
+  url: http://www.motherjones.com/politics/2017/04/white-house-keep-visitor-logs-secret
   domain: www.motherjones.com
   image: ""
 - curated_id: ccdc5847b44106f9c17e884a1db18d38
@@ -2169,17 +2169,17 @@
   url: http://www.techtimes.com/articles/205285/20170419/former-microsoft-ceo-steve-ballmer-outs-usafacts-to-make-government-spending-and-other-data-more-transparent.htm
   domain: www.techtimes.com
   image: ""
-- curated_id: 0ae6f6af0ea4b1dd149957bd68abd8e4
-  item_date: "2017-04-20 00:00:00"
-  title: Lyft head of engineering pens a letter to teammates asking for open communication
-  url: https://techcrunch.com/2017/04/20/lyft-head-of-engineering-pens-a-letter-to-teammates-asking-for-open-communication/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 671f6d67801f94763bb94b92cc3741b9
   item_date: "2017-04-20 00:00:00"
   title: OIP Seeks Your Participation in the Development of the National FOIA Portal
   url: https://www.digitalgov.gov/2017/04/20/oip-seeks-your-participation-in-the-development-of-the-national-foia-portal/
   domain: www.digitalgov.gov
+  image: ""
+- curated_id: 0ae6f6af0ea4b1dd149957bd68abd8e4
+  item_date: "2017-04-20 00:00:00"
+  title: Lyft head of engineering pens a letter to teammates asking for open communication
+  url: https://techcrunch.com/2017/04/20/lyft-head-of-engineering-pens-a-letter-to-teammates-asking-for-open-communication/
+  domain: techcrunch.com
   image: ""
 - curated_id: df9ef5c23edc0e49f8c39d8236f7da4f
   item_date: "2017-04-23 00:00:00"
