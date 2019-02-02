@@ -1,173 +1,226 @@
----
-- slug: sunlight-foundation
-  name: Sunlight Foundation
-  description: Sunlight Labs is an open source community of thousands dedicated to  using
-    technology to transform government. We focus on transparency- the  idea that government
-    can be more effective, more honest, and more  accountable when it makes data about
-    its process, operations, and  influences available to the public. Our work revolves
-    around opening up  government data of all forms. Paid staff of Sunlight Labs are
-    employees  of the Sunlight Foundation a 501c(3) non-partisan non-profit  organization.
-  url: http://sunlightfoundation.com/
-  shorturl: ""
-  twitter: https://twitter.com/sunfoundation
-  blog: http://sunlightfoundation.com/blog/
-  blogrss: http://sunlightfoundation.com/feeds/latest/
-  github: https://github.com/sunlightlabs
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SunlightFoundation-logo.png
-  tags: Candidates,Lobbyists,Federal Government,Congress,Government,Government,City
-    Organizations,Transparency
-- slug: certificate-transparency
-  name: Certificate Transparency
-  description: Google's Certificate Transparency project fixes several structural
-    flaws in the SSL certificate system, which is the main cryptographic system that
-    underlies all HTTPS connections. These flaws weaken the reliability and effectiveness
-    of encrypted Internet connections and can compromise critical TLS/SSL mechanisms,
-    including domain validation, end-to-end encryption, and the chains of trust set
-    up by certificate authorities. If left unchecked, these flaws can facilitate a
-    wide range of security attacks, such as website spoofing, server impersonation,
-    and man-in-the-middle attacks.
-  url: http://www.certificate-transparency.org/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Certificate-Transparency.png
-  tags: Certificates,SSL,Encryption,Transparency
-- slug: foia.gov
-  name: FOIA.gov
-  description: The Freedom of Information Act (FOIA), 5 U.S.C. &sect; 552, is a federal
-    freedom of information law that allows for the full or partial disclosure of previously
-    unreleased information and documents controlled by the United States government.
-    The Act defines agency records subject to disclosure, outlines mandatory disclosure
-    procedures and grants nine exemptions to the statute. It was originally signed
-    into law by President Lyndon B. Johnson, despite his misgivings, on July 4, 1966,
-    and went into effect the following year.
-  url: http://www.foia.gov
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Great_Seal_of_the_United_States_(obverse).svg.png
-  tags: Federal Government,Federal Government,Transparency
-- slug: muckrock
-  name: MuckRock
-  description: MuckRock is a collaborative news site that brings together journalists,
-    researchers, activists, and regular citizens to request, analyze &amp; share government
-    documents, making politics more transparent and democracies more informed. The
-    site provides a repository of hundreds of thousands of pages of original government
-    materials, information on how to file requests, and tools to make the requesting
-    process easier. In addition, MuckRock staff and outside contributors do original
-    reporting and analysis of many of the documents received through the site. MuckRock's
-    unique form of investigative and accountability journalism has been recognized
-    by the Sunlight Foundation, The Freedom of the Press Foundation, and hundreds
-    of local and national news outlets for its groundbreaking work in areas such as
-    government spending, surveillance, and public safety.
-  url: https://www.muckrock.com/
-  shorturl: ""
-  twitter: https://twitter.com/muckrock
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/muckrock_medium.jpg
-  tags: FOIA,Federal Government,News,Transparency
-- slug: opensecrets.org
-  name: OpenSecrets.org
-  description: The Center for Responsive Politics is the nation's premier research
-    group tracking money in U.S. politics and its effect on elections and public policy.
-    Nonpartisan, independent and nonprofit, the organization aims to create a more
-    educated voter, an involved citizenry and a more transparent and responsive government.
-  url: http://www.opensecrets.org/
-  shorturl: ""
-  twitter: https://twitter.com/opensecretsdc
-  blog: ""
-  blogrss: http://www.opensecrets.org/news/atom.xml
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/os_logo_home.png
-  tags: Government,Politics,Transparency
-- slug: american-civil-liberties-union-aclu
-  name: American Civil Liberties Union (ACLU)
-  description: For almost 100 years, the ACLU has worked to defend and preserve the
-    individual rights and liberties guaranteed by the Constitution and laws of the
-    United States.
-  url: https://www.aclu.org
-  shorturl: ""
-  twitter: https://twitter.com/aclu
-  blog: https://www.aclu.org/blog-feed/gamut
-  blogrss: https://www.aclu.org/blog-feed/all/feed
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aclu-logo.png
-  tags: Privacy,Surveillance,Transparency
-- slug: access-now
-  name: Access Now
-  description: Access Now defends and extends the digital rights of users at risk
-    around the world. By combining innovative policy, global advocacy, and direct
-    technical support, we fight for open and secure communications for all.
-  url: https://www.accessnow.org
-  shorturl: ""
-  twitter: https://twitter.com/accessnow
-  blog: https://www.accessnow.org/blog/
-  blogrss: https://www.accessnow.org/feed/
-  github: https://github.com/accessnow
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Access-Logo1.jpg
-  tags: Privacy,Surveillance,Transparency,Blog
-- slug: electronic-frontier-foundation
-  name: Electronic Frontier Foundation
-  description: The Electronic Frontier Foundation (EFF) is an international non-profit
-    digital rights group based in San Francisco in the United States. EFF provides
-    funds for legal defense in court, presents amicus curiae briefs, defends individuals
-    and new technologies from what it considers abusive legal threats, works to expose
-    government malfeasance, provides guidance to the government and courts, organizes
-    political action and mass mailings.
-  url: https://www.eff.org/
-  shorturl: ""
-  twitter: https://twitter.com/eff
-  blog: https://www.eff.org/deeplinks
-  blogrss: https://www.eff.org/rss/updates.xml
-  github: https://github.com/EFForg
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EFF.png
-  tags: Privacy,Surveillance,Transparency,Copyright,Patents
-- slug: the-transparency-and-accountability-initiative
-  name: The Transparency and Accountability Initiative
-  description: The Transparency and Accountability Initiative (T/A Initiative) is
-    a donor collaborative working to expand the impact and scale of transparency,
-    accountability and participation interventions.
-  url: http://www.transparency-initiative.org/
-  shorturl: ""
-  twitter: https://twitter.com/TAInitiative
-  blog: ""
-  blogrss: http://feeds.feedburner.com/tainitiative/news
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/TAI_logo_BLK-GRN.jpg
-  tags: Transparency
-- slug: transparency-international
-  name: Transparency International
-  description: 'Transparency International (TI) is a global movement sharing one vision:
-    a world in which government politics, resources-resources-business, civil society
-    and the daily lives of people are free of corruption. Transparency International
-    UK (TI-UK) is the UK national chapter of this movement.&nbsp;'
-  url: http://www.transparency.org.uk/
-  shorturl: ""
-  twitter: https://twitter.com/transparencyuk
-  blog: http://www.transparency.org.uk/news-room/
-  blogrss: http://www.transparency.org.uk/feed/?format=feed
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transparency-international.png
-  tags: Transparency
-- slug: transparency-toolkit
-  name: Transparency Toolkit
-  description: Transparency Toolkit uses open data to watch the watchers and hold
-    the powerful to account. We build free software to collect and analyze open data
-    from a variety of sources. Then we work with investigative journalists and human
-    rights organizations to turn that into useful, actionable knowledge. Currently,
-    our primary focuses are investigating surveillance and human rights abuses.
-  url: https://transparencytoolkit.org/
-  shorturl: ""
-  twitter: https://twitter.com/transparencykit
-  blog: https://transparencytoolkit.org/blog/
-  blogrss: https://transparencytoolkit.org/feed/
-  github: https://github.com/TransparencyToolkit
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transparency-toolkit.jpg
-  tags: Transparency
-...
+- slug: apache-avro
+  name: Apache Avro
+  description: >-
+    Apache Avro is a data serialization system. Avro relies on schemas. When
+    Avro data is read, the schema used when writing it is always present. This
+    permits each datum to be written with no per-value overheads, making
+    serialization both fast and small. This also facilitates use with dynamic,
+    scripting languages, since data, together with its schema, is fully
+    self-describing.
+  url: 'https://avro.apache.org/docs/current/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
+  tags: Definitions
+- slug: api-blueprint
+  name: API Blueprint
+  description: >-
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read &ndash; after all it is just a form of plain text.
+  url: 'https://apiblueprint.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiblueprint'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apiaryio/api-blueprint'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
+  tags: Definitions
+- slug: api-transformer
+  name: API Transformer
+  description: >-
+    Transform API Descriptions from/to various formats e.g., Swagger, API
+    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
+    production and high volume usage.
+  url: 'https://apitransformer.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
+  tags: 'Definitions,Conversion,My API Stack'
+- slug: elastic-path
+  name: Elastic Path
+  description: >-
+    Elastic Path builds commerce software that powers the next generation of
+    digital experiences, helping businesses generate more revenue from their
+    goods, services, and content. Our products, including Commerce Engine,
+    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
+    consumption into outstanding customer experiences that drive more engagement
+    and conversion.
+  url: 'http://www.elasticpath.com'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticpath'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/elasticpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    Data Packages are a lightweight containerization format for data. They
+    provide the foundation for frictionless data transport.&nbsp;Tools and
+    integrations to make it easy to integrate Data Packages into your data
+    processing and publishing workflows.&nbsp;Learn how to get started using and
+    developing with Data Packages through our guides, tutorials and
+    documentation.
+  url: 'http://specs.frictionlessdata.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/frictionlessdata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: postman
+  name: Postman
+  description: >-
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
+- slug: google-api-discovery-service
+  name: Google API Discovery Service
+  description: >-
+    You can use the Google API Discovery Service to build client libraries, IDE
+    plugins, and other tools that interact with Google APIs. It provides a
+    lightweight, JSON-based API that exposes machine-readable metadata about
+    Google APIs.
+  url: 'https://developers.google.com/discovery/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-16 at 9.06.47 PM.png
+  tags: 'Discovery,Google APIs,Definitions'
+- slug: odata.org
+  name: OData
+  description: >-
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: 'http://apis.how/byirz5zgt7'
+  twitter: 'https://twitter.com/odataorg'
+  blog: 'http://www.odata.org/blog/'
+  blog_rss: ''
+  github: 'https://github.com/odata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+  tags: Definitions
+- slug: openapi-spec
+  name: OpenAPIs
+  description: >-
+    The Open API Initiative (OAI) was created by a consortium of forward-looking
+    industry experts who recognize the immense value of standardizing on how
+    REST APIs are described. As an open governance structure under the Linux
+    Foundation, the OAI is focused on creating, evolving and promoting a vendor
+    neutral description format. SmartBear Software is donating the Swagger
+    Specification directly to the OAI as the basis of this Open Specification.
+    &nbsp;
+  url: 'https://openapis.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/openapispec'
+  blog: 'https://openapis.org/news-faq/blog'
+  blog_rss: 'https://www.openapis.org/feed'
+  github: 'https://github.com/OAI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+  tags: Definitions
+- slug: raml
+  name: RAML
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://open-raml.blogspot.com/'
+  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+  tags: Definitions
+- slug: ''
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. Description is not a goal in itself: you want your API to be used.
+    See how RESTdesc opens up your API for discovery, based on its functional
+    characteristics.
+  url: 'http://restdesc.org/'
+  short_url: 'http://apis.how/vymksgxgfl'
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
+  tags: Definitions
+- slug: schema.org
+  name: Schema.org
+  description: >-
+    Schema.org is a collaborative, community activity with a mission to create,
+    maintain, and promote schemas for structured data on the Internet, on web
+    pages, in email messages, and beyond. Schema.org vocabulary can be used with
+    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
+  url: 'http://schema.org'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.schema.org/'
+  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
+  tags: 'Definitions, Schema'
+- slug: u.s.-data-federation
+  name: U.S. Data Federation
+  description: >-
+    The U.S. Data Federation supports data interoperability and harmonization
+    across Federal, state, and local government agencies by highlighting common
+    data formats, API specifications, and metadata vocabularies.
+  url: 'http://federation.data.gov/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
+  tags: 'Federal Government,Definitions'
