@@ -1,0 +1,15 @@
+{
+  "report_id": "google-2025-h2",
+  "publisher": "Google",
+  "report_url": "https://transparencyreport.google.com/government-removals/overview?hl=en",
+  "report_type": "government-requests",
+  "period_start": "2025-07-01",
+  "period_end": "2025-12-31",
+  "jurisdictions": ["US", "DE", "BR", "IN", "FR"],
+  "metrics": [
+    { "name": "government_data_requests", "value": 86234, "unit": "requests" },
+    { "name": "accounts_specified", "value": 213450, "unit": "accounts" },
+    { "name": "compliance_rate", "value": 0.81, "unit": "ratio" }
+  ],
+  "published_at": "2026-04-15T12:00:00Z"
+}

@@ -1,0 +1,106 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "trn": "https://api-evangelist.github.io/transparency/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+    "prov": "http://www.w3.org/ns/prov#",
+
+    "TransparencyReport": "trn:TransparencyReport",
+    "AuditLogEntry": "prov:Activity",
+
+    "report_id": {
+      "@id": "dcterms:identifier",
+      "@type": "xsd:string"
+    },
+    "entry_id": {
+      "@id": "dcterms:identifier",
+      "@type": "xsd:string"
+    },
+    "publisher": "schema:publisher",
+    "report_url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "report_type": {
+      "@id": "trn:report_type",
+      "@type": "xsd:string"
+    },
+    "log_type": {
+      "@id": "trn:log_type",
+      "@type": "xsd:string"
+    },
+    "period_start": {
+      "@id": "dcterms:temporal",
+      "@type": "xsd:date"
+    },
+    "period_end": {
+      "@id": "dcterms:temporal",
+      "@type": "xsd:date"
+    },
+    "occurred_at": {
+      "@id": "prov:atTime",
+      "@type": "xsd:dateTime"
+    },
+    "published_at": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "jurisdictions": {
+      "@id": "trn:jurisdictions",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "metrics": {
+      "@id": "trn:metrics",
+      "@container": "@set"
+    },
+    "actor": {
+      "@id": "prov:wasAssociatedWith",
+      "@type": "@id"
+    },
+    "action": {
+      "@id": "trn:action",
+      "@type": "xsd:string"
+    },
+    "resource": {
+      "@id": "prov:used",
+      "@type": "@id"
+    },
+    "outcome": {
+      "@id": "trn:outcome",
+      "@type": "xsd:string"
+    },
+    "ip_address": {
+      "@id": "trn:ip_address",
+      "@type": "xsd:string"
+    },
+    "log_index": {
+      "@id": "trn:log_index",
+      "@type": "xsd:integer"
+    },
+    "merkle_proof": {
+      "@id": "trn:merkle_proof"
+    },
+    "root_hash": {
+      "@id": "trn:root_hash",
+      "@type": "xsd:string"
+    },
+    "tree_size": {
+      "@id": "trn:tree_size",
+      "@type": "xsd:integer"
+    },
+    "hashes": {
+      "@id": "trn:hashes",
+      "@container": "@list",
+      "@type": "xsd:string"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

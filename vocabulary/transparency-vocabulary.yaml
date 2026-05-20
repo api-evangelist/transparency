@@ -1,0 +1,271 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Transparency
+  description: Vocabulary for the transparency topic, covering public transparency reports, hosted status pages, public audit logs, and cryptographic transparency logs.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Statuspage Manage API
+      namespace: statuspage
+      status: active
+    - name: Better Stack Uptime API
+      namespace: better-stack
+      status: active
+    - name: Sigstore Rekor Transparency Log API
+      namespace: sigstore
+      status: active
+    - name: Cloudflare API
+      namespace: cloudflare
+      status: active
+    - name: Google Cloud Logging API
+      namespace: google-cloud-logging
+      status: active
+    - name: Datadog Audit Trail API
+      namespace: datadog
+      status: active
+    - name: Microsoft Purview Audit API
+      namespace: microsoft-purview
+      status: active
+
+  resources:
+    - name: transparency-reports
+      description: Public transparency reports published by platforms disclosing government requests, takedowns, and policy actions
+      actions:
+        - list
+        - get
+        - search
+    - name: status-pages
+      description: Hosted public status pages and their components, incidents, and subscribers
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: incidents
+      description: Public incident records communicated via status pages and incident management platforms
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - subscribe
+    - name: audit-log-entries
+      description: Tamper-evident administrative and data-access events recorded by platform audit logs
+      actions:
+        - list
+        - get
+        - search
+        - stream
+    - name: transparency-log-entries
+      description: Entries in cryptographically verifiable append-only logs such as Rekor and Certificate Transparency
+      actions:
+        - list
+        - get
+        - search
+        - verify
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: search
+      description: Search for transparency reports, incidents, or audit entries by criteria
+      httpMethod: GET
+      pattern: query
+    - name: subscribe
+      description: Subscribe to status page or incident updates
+      httpMethod: POST
+      pattern: write
+    - name: create
+      description: Create a new incident, component, or status update
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an incident, maintenance window, or component status
+      httpMethod: PUT
+      pattern: write
+    - name: verify
+      description: Verify inclusion proof of an entry in a cryptographic transparency log
+      httpMethod: GET
+      pattern: read
+    - name: stream
+      description: Stream audit log entries in near real time
+      httpMethod: GET
+      pattern: read
+    - name: delete
+      description: Remove a status component or subscriber
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: TransparencyReport
+        description: A periodic public transparency report from a platform
+        properties:
+          - report_id
+          - publisher
+          - report_url
+          - report_type
+          - period_start
+          - period_end
+          - jurisdictions
+          - metrics
+          - published_at
+      - name: AuditLogEntry
+        description: A tamper-evident audit log or transparency log entry
+        properties:
+          - entry_id
+          - source
+          - log_type
+          - actor
+          - action
+          - resource
+          - outcome
+          - ip_address
+          - occurred_at
+          - log_index
+          - merkle_proof
+
+  enums:
+    report_types:
+      - government-requests
+      - content-removal
+      - copyright
+      - national-security
+      - user-data
+      - platform-policy
+      - advertising
+    log_types:
+      - admin-activity
+      - data-access
+      - system
+      - policy
+      - certificate-issuance
+      - artifact-signing
+      - incident
+    outcomes:
+      - success
+      - failure
+      - denied
+    actor_types:
+      - user
+      - service
+      - system
+      - anonymous
+
+capability:
+  workflows:
+    - name: Status Page Incident Subscription
+      description: Subscribe to incidents and maintenance updates from a hosted status page and route them into incident response
+      apis:
+        - statuspage
+        - better-stack
+      personas:
+        - Site Reliability Engineer
+      domains:
+        - Status Page
+    - name: Audit Log Streaming to SIEM
+      description: Stream tamper-evident audit log entries from a platform into a security information and event management system
+      apis:
+        - datadog
+        - microsoft-purview
+        - google-cloud-logging
+      personas:
+        - Security Engineer
+      domains:
+        - Audit Log
+    - name: Software Artifact Verification
+      description: Query a cryptographic transparency log to verify the signing record of a software artifact
+      apis:
+        - sigstore
+      personas:
+        - Supply Chain Engineer
+      domains:
+        - Transparency Log
+    - name: Transparency Report Aggregation
+      description: Aggregate and normalize public transparency reports across multiple platforms for research and reporting
+      apis:
+        - cloudflare
+      personas:
+        - Researcher
+      domains:
+        - Public Disclosure
+
+  personas:
+    - id: site-reliability-engineer
+      name: Site Reliability Engineer
+      description: Engineers responsible for service reliability, incident response, and status page communication
+      workflows:
+        - Status Page Incident Subscription
+    - id: security-engineer
+      name: Security Engineer
+      description: Engineers consuming audit logs to detect and investigate administrative and security-relevant events
+      workflows:
+        - Audit Log Streaming to SIEM
+    - id: supply-chain-engineer
+      name: Supply Chain Engineer
+      description: Engineers verifying signed software artifacts against transparency logs
+      workflows:
+        - Software Artifact Verification
+    - id: researcher
+      name: Researcher
+      description: Journalists, researchers, and policy analysts studying platform transparency disclosures
+      workflows:
+        - Transparency Report Aggregation
+
+  domains:
+    - name: Status Page
+      description: Hosted public status pages and incident communication platforms
+    - name: Audit Log
+      description: Platform audit log and audit trail surfaces recording administrative and data-access events
+    - name: Transparency Log
+      description: Append-only cryptographically verifiable logs (Rekor, Certificate Transparency, Trillian)
+    - name: Public Disclosure
+      description: Periodic transparency reports and public records disclosures
+
+crossReference:
+  - resource: status-pages
+    operations:
+      - list
+      - subscribe
+      - update
+    workflows:
+      - Status Page Incident Subscription
+    personas:
+      - Site Reliability Engineer
+  - resource: audit-log-entries
+    operations:
+      - list
+      - search
+      - stream
+    workflows:
+      - Audit Log Streaming to SIEM
+    personas:
+      - Security Engineer
+  - resource: transparency-log-entries
+    operations:
+      - get
+      - search
+      - verify
+    workflows:
+      - Software Artifact Verification
+    personas:
+      - Supply Chain Engineer
+  - resource: transparency-reports
+    operations:
+      - list
+      - get
+      - search
+    workflows:
+      - Transparency Report Aggregation
+    personas:
+      - Researcher

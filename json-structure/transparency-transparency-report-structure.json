@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/transparency/refs/heads/main/json-structure/transparency-transparency-report-structure.json",
+  "name": "TransparencyReport",
+  "description": "Represents a single public transparency report published by a platform disclosing government, legal, content moderation, or operational actions over a defined reporting period.",
+  "type": "object",
+  "properties": {
+    "report_id": {
+      "type": "string",
+      "description": "Unique identifier for the transparency report.",
+      "example": "google-2025-h2"
+    },
+    "publisher": {
+      "type": "string",
+      "description": "Name of the platform or organization publishing the report.",
+      "example": "Google"
+    },
+    "report_url": {
+      "type": "uri",
+      "description": "Canonical public URL to the transparency report.",
+      "example": "https://transparencyreport.google.com/"
+    },
+    "report_type": {
+      "type": "string",
+      "description": "Category of the transparency report.",
+      "enum": [
+        "government-requests",
+        "content-removal",
+        "copyright",
+        "national-security",
+        "user-data",
+        "platform-policy",
+        "advertising",
+        "other"
+      ],
+      "example": "government-requests"
+    },
+    "period_start": {
+      "type": "date",
+      "description": "Inclusive start date of the reporting period (ISO 8601).",
+      "example": "2025-07-01"
+    },
+    "period_end": {
+      "type": "date",
+      "description": "Inclusive end date of the reporting period (ISO 8601).",
+      "example": "2025-12-31"
+    },
+    "jurisdictions": {
+      "type": "array",
+      "description": "ISO 3166-1 alpha-2 country codes covered by the report.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "US",
+        "DE",
+        "BR"
+      ]
+    },
+    "metrics": {
+      "type": "array",
+      "description": "Quantitative metrics disclosed in the report.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "government_data_requests"
+          },
+          "value": {
+            "type": "number",
+            "example": 86234
+          },
+          "unit": {
+            "type": "string",
+            "example": "requests"
+          }
+        },
+        "required": [
+          "name",
+          "value"
+        ]
+      }
+    },
+    "published_at": {
+      "type": "datetime",
+      "description": "Timestamp the report was published.",
+      "example": "2026-04-15T12:00:00Z"
+    }
+  },
+  "required": [
+    "report_id",
+    "publisher",
+    "report_type",
+    "period_start",
+    "period_end"
+  ]
+}

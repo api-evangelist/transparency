@@ -1,0 +1,28 @@
+{
+  "entry_id": "evt_01HZ8K8N7Q5VYV5G3PSXX9TJM2",
+  "source": "cloudflare-audit",
+  "log_type": "admin-activity",
+  "actor": {
+    "id": "user_abc123",
+    "type": "user",
+    "email": "ops@example.com"
+  },
+  "action": "zone.dns_record.update",
+  "resource": {
+    "type": "dns_record",
+    "id": "rec_98765",
+    "name": "api.example.com"
+  },
+  "outcome": "success",
+  "ip_address": "203.0.113.42",
+  "occurred_at": "2026-05-18T14:23:01Z",
+  "log_index": 7421988,
+  "merkle_proof": {
+    "root_hash": "9f6e2c4b1d3a7f8e0c5b2a1d4e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f",
+    "tree_size": 7421989,
+    "hashes": [
+      "a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "112233445566778899aabbccddeeff00"
+    ]
+  }
+}

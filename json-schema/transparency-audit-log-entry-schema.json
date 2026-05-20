@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/transparency/refs/heads/main/json-schema/transparency-audit-log-entry-schema.json",
+  "title": "AuditLogEntry",
+  "description": "A single tamper-evident audit log entry recorded by a platform audit-log surface or cryptographic transparency log.",
+  "type": "object",
+  "properties": {
+    "entry_id": {
+      "type": "string",
+      "description": "Unique identifier for the audit log entry.",
+      "example": "evt_01HZ8K8N7Q5VYV5G3PSXX9TJM2"
+    },
+    "source": {
+      "type": "string",
+      "description": "System or service that emitted the audit event.",
+      "example": "cloudflare-audit"
+    },
+    "log_type": {
+      "type": "string",
+      "description": "Category of audit log.",
+      "enum": [
+        "admin-activity",
+        "data-access",
+        "system",
+        "policy",
+        "certificate-issuance",
+        "artifact-signing",
+        "incident",
+        "other"
+      ],
+      "example": "admin-activity"
+    },
+    "actor": {
+      "type": "object",
+      "description": "Identity that initiated the action.",
+      "properties": {
+        "id": { "type": "string", "example": "user_abc123" },
+        "type": { "type": "string", "enum": ["user", "service", "system", "anonymous"], "example": "user" },
+        "email": { "type": "string", "format": "email", "example": "ops@example.com" }
+      }
+    },
+    "action": {
+      "type": "string",
+      "description": "Action performed by the actor.",
+      "example": "zone.dns_record.update"
+    },
+    "resource": {
+      "type": "object",
+      "description": "Target resource the action was performed against.",
+      "properties": {
+        "type": { "type": "string", "example": "dns_record" },
+        "id": { "type": "string", "example": "rec_98765" },
+        "name": { "type": "string", "example": "api.example.com" }
+      }
+    },
+    "outcome": {
+      "type": "string",
+      "enum": ["success", "failure", "denied"],
+      "description": "Outcome of the action.",
+      "example": "success"
+    },
+    "ip_address": {
+      "type": "string",
+      "description": "Source IP address of the actor, if recorded.",
+      "example": "203.0.113.42"
+    },
+    "occurred_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp the event occurred (RFC 3339).",
+      "example": "2026-05-18T14:23:01Z"
+    },
+    "log_index": {
+      "type": "integer",
+      "description": "Position of the entry in an append-only transparency log, when applicable.",
+      "minimum": 0,
+      "example": 7421988
+    },
+    "merkle_proof": {
+      "type": "object",
+      "description": "Inclusion proof for the entry in a cryptographic transparency log.",
+      "properties": {
+        "root_hash": { "type": "string", "example": "9f6e2c..." },
+        "tree_size": { "type": "integer", "example": 7421989 },
+        "hashes": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  },
+  "required": ["entry_id", "source", "action", "occurred_at"]
+}
