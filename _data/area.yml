@@ -1,0 +1,181 @@
+meta:
+  name: Transparency
+  description: An index and topic collection covering public-facing transparency surfaces
+    across the API and platform ecosystem. Transparency in this context refers to
+    the mechanisms platforms use to publicly disclose operational state, government
+    and legal requests, content moderation decisions, security incidents, certificate
+    issuance, and software supply-chain artifacts. This collection brings together
+    transparency reports from major platforms (Google, Cloudflare, Microsoft, Meta,
+    Apple, Reddit, GitHub, Twitter/X, LinkedIn), public status page platforms (Statuspage,
+    Better Stack, Atlassian Statuspage), public audit log surfaces (Cloudflare Audit,
+    AWS CloudTrail-adjacent services, Datadog Audit, Microsoft Purview), cryptographic
+    transparency logs and ledgers (Sigstore Rekor, Certificate Transparency, Let's
+    Encrypt CT, Trillian), and data-broker / FOIA disclosure portals (FOIA, Free Law
+    Project, Disclosure Requirements). It is distinct from the Privacy topic, which
+    focuses on consent and data-subject access requests.
+  tags:
+  - Transparency
+  - Status Page
+  - Audit Log
+  - Certificate Transparency
+  - Public Disclosure
+  - Transparency Report
+  - Incident Communication
+  - Transparency Log
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: transparency
+services_tools:
+- name: Apple Pay
+  repo: https://github.com/api-evangelist/apple-pay
+  apisio: https://providers.apis.io/providers/apple-pay/
+- name: Atlassian
+  repo: https://github.com/api-evangelist/atlassian
+  apisio: https://providers.apis.io/providers/atlassian/
+- name: Better Stack
+  repo: https://github.com/api-evangelist/better-stack
+  apisio: https://providers.apis.io/providers/better-stack/
+- name: Cloudflare
+  repo: https://github.com/api-evangelist/cloudflare
+  apisio: https://providers.apis.io/providers/cloudflare/
+- name: Datadog
+  repo: https://github.com/api-evangelist/datadog
+  apisio: https://providers.apis.io/providers/datadog/
+- name: Disclosure Requirements
+  repo: https://github.com/api-evangelist/disclosure-requirements
+  apisio: https://providers.apis.io/providers/disclosure-requirements/
+- name: FireHydrant
+  repo: https://github.com/api-evangelist/firehydrant
+  apisio: https://providers.apis.io/providers/firehydrant/
+- name: Free Law Project
+  repo: https://github.com/api-evangelist/free-law-project
+  apisio: https://providers.apis.io/providers/free-law-project/
+- name: Freedom of Information Act
+  repo: https://github.com/api-evangelist/freedom-of-information-act
+  apisio: https://providers.apis.io/providers/freedom-of-information-act/
+- name: GitHub Enterprise
+  repo: https://github.com/api-evangelist/github-enterprise
+  apisio: https://providers.apis.io/providers/github-enterprise/
+- name: Google Cloud
+  repo: https://github.com/api-evangelist/google-cloud
+  apisio: https://providers.apis.io/providers/google-cloud/
+- name: Google Cloud Logging
+  repo: https://github.com/api-evangelist/google-cloud-logging
+  apisio: https://providers.apis.io/providers/google-cloud-logging/
+- name: Google Cloud Security Command Center
+  repo: https://github.com/api-evangelist/google-cloud-security-command-center
+  apisio: https://providers.apis.io/providers/google-cloud-security-command-center/
+- name: Honeybadger
+  repo: https://github.com/api-evangelist/honeybadger
+  apisio: https://providers.apis.io/providers/honeybadger/
+- name: Incident.io
+  repo: https://github.com/api-evangelist/incident-io
+  apisio: https://providers.apis.io/providers/incident-io/
+- name: Let's Encrypt
+  repo: https://github.com/api-evangelist/lets-encrypt
+  apisio: https://providers.apis.io/providers/lets-encrypt/
+- name: LinkedIn
+  repo: https://github.com/api-evangelist/linkedin
+  apisio: https://providers.apis.io/providers/linkedin/
+- name: Meta Platforms
+  repo: https://github.com/api-evangelist/meta-platforms
+  apisio: https://providers.apis.io/providers/meta-platforms/
+- name: Microsoft Azure
+  repo: https://github.com/api-evangelist/microsoft-azure
+  apisio: https://providers.apis.io/providers/microsoft-azure/
+- name: Microsoft Purview
+  repo: https://github.com/api-evangelist/microsoft-purview
+  apisio: https://providers.apis.io/providers/microsoft-purview/
+- name: PagerDuty
+  repo: https://github.com/api-evangelist/pagerduty
+  apisio: https://providers.apis.io/providers/pagerduty/
+- name: Reddit
+  repo: https://github.com/api-evangelist/reddit
+  apisio: https://providers.apis.io/providers/reddit/
+- name: Sigstore
+  repo: https://github.com/api-evangelist/sigstore
+  apisio: https://providers.apis.io/providers/sigstore/
+- name: Squadcast
+  repo: https://github.com/api-evangelist/squadcast
+  apisio: https://providers.apis.io/providers/squadcast/
+- name: Statuspage
+  repo: https://github.com/api-evangelist/statuspage
+  apisio: https://providers.apis.io/providers/statuspage/
+- name: Twitter
+  repo: https://github.com/api-evangelist/twitter
+  apisio: https://providers.apis.io/providers/twitter/
+features:
+- name: Public Transparency Reports
+  description: Periodic public reports from platforms like Google, Cloudflare, Microsoft,
+    Meta, Apple, Reddit, GitHub, and Twitter/X disclosing government and legal requests,
+    takedowns, and content moderation actions.
+- name: Public Status Pages
+  description: Hosted status page surfaces (Statuspage, Better Stack, Atlassian Statuspage,
+    Incident.io) communicating real-time service health, incidents, and scheduled
+    maintenance to customers and the public.
+- name: Public Audit Logs
+  description: Audit log APIs and services (Cloudflare Audit Logs, Datadog Audit Trail,
+    Microsoft Purview, Google Cloud Logging) that record administrative and security-relevant
+    events in tamper-evident form.
+- name: Cryptographic Transparency Logs
+  description: Append-only, cryptographically verifiable logs such as Certificate
+    Transparency, Sigstore Rekor, and Trillian that make issuance and signing events
+    publicly auditable.
+- name: Incident Communication
+  description: Structured public disclosure of incidents, post-mortems, RCA, and ongoing
+    impact via status pages, RSS, webhooks, and subscriber notifications.
+- name: Government and Legal Request Disclosure
+  description: Standardized reporting of government data requests, court orders, copyright
+    takedowns, and national security requests across major platforms.
+- name: Data-Broker and FOIA Disclosure
+  description: Public disclosure portals for data brokers and government records,
+    including Freedom of Information Act request handling and judicial disclosure.
+use_cases:
+- name: Subscribe to Status Page Incidents
+  description: Programmatically subscribe to status page updates from providers like
+    Statuspage, Better Stack, and Atlassian Statuspage and pipe them into incident
+    response systems.
+- name: Stream Public Audit Logs into a SIEM
+  description: Pull tamper-evident audit logs from Cloudflare, Datadog, Microsoft
+    Purview, and Google Cloud Logging into a centralized security information and
+    event management platform.
+- name: Verify Software Artifacts in a Transparency Log
+  description: Query Sigstore Rekor or Certificate Transparency logs to verify that
+    a signed artifact, certificate, or release was publicly recorded and is auditable.
+- name: Monitor Certificate Issuance for a Domain
+  description: Watch Certificate Transparency feeds (including Let's Encrypt CT submissions)
+    for unauthorized or unexpected certificate issuance against owned domains.
+- name: Aggregate Platform Transparency Reports
+  description: Normalize and compare government request disclosures from Google, Cloudflare,
+    Microsoft, Meta, Apple, Reddit, and Twitter/X for research and journalism.
+- name: Publish Post-Incident Communication
+  description: Use status page APIs to publish incidents, ongoing updates, post-mortems,
+    and historical reliability metrics to customers and regulators.
+- name: FOIA and Public Records Workflows
+  description: Submit, track, and publish responses to Freedom of Information Act
+    and judicial disclosure requests via public records APIs.
+integrations:
+- name: Statuspage
+  description: Atlassian-owned hosted status page and incident communication platform
+    with a REST API for pages, components, incidents, and subscribers.
+- name: Better Stack
+  description: Uptime monitoring and hosted status page platform with API access to
+    monitors, heartbeats, incidents, and status pages.
+- name: Sigstore Rekor
+  description: Cryptographically secure, immutable transparency log for signed software
+    releases, queryable via the Rekor API.
+- name: Cloudflare
+  description: Public Cloudflare Radar, transparency reports, and Audit Logs API providing
+    visibility into traffic, requests, and tenant administrative activity.
+- name: Google Cloud Logging
+  description: Centralized audit and platform logging for Google Cloud, including
+    Admin Activity and Data Access audit logs.
+- name: Microsoft Purview
+  description: Microsoft data governance and compliance platform that exposes audit
+    logs across Microsoft 365 and Azure surfaces.
+- name: Datadog
+  description: Observability platform offering an Audit Trail and Audit Logs API for
+    monitoring administrative activity across Datadog tenants.
+- name: PagerDuty
+  description: Incident response platform with public-facing status pages, post-mortems,
+    and an API for incident disclosure and timelines.

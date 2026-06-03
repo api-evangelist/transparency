@@ -1,0 +1,28 @@
+title: Transparency
+description: An index and topic collection covering public-facing transparency surfaces
+  across the API and platform ecosystem. Transparency in this context refers to the
+  mechanisms platforms use to publicly disclose operational state, government and
+  legal requests, content moderation decisions, security incidents, certificate issuance,
+  and software supply-chain artifacts. This collection brings together transparency
+  reports from major platforms (Google, Cloudflare, Microsoft, Meta, Apple, Reddit,
+  GitHub, Twitter/X, LinkedIn), public status page platforms (Statuspage, Better Stack,
+  Atlassian Statuspage), public audit log surfaces (Cloudflare Audit, AWS CloudTrail-adjacent
+  services, Datadog Audit, Microsoft Purview), cryptographic transparency logs and
+  ledgers (Sigstore Rekor, Certificate Transparency, Let's Encrypt CT, Trillian),
+  and data-broker / FOIA disclosure portals (FOIA, Free Law Project, Disclosure Requirements).
+  It is distinct from the Privacy topic, which focuses on consent and data-subject
+  access requests.
+url: https://transparency.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
