@@ -7,7 +7,7 @@ description: >-
   log surfaces (Cloudflare Audit, AWS CloudTrail-adjacent services, Datadog Audit, Microsoft Purview), cryptographic transparency logs and ledgers (Sigstore Rekor, Certificate Transparency, Let's Encrypt CT,
   Trillian), and data-broker / FOIA disclosure portals (FOIA, Free Law Project, Disclosure Requirements). It is distinct from the Privacy topic, which focuses on consent and data-subject access requests.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Transparency
 - Status Page
