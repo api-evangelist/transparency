@@ -1,0 +1,31 @@
+related:
+- name: Monitoring
+  url: https://monitoring.apievangelist.com
+  icon: https://monitoring.apievangelist.com/icon.png
+  description: An index and topic collection covering API monitoring, application performance monitoring,
+    observability, uptime monitoring, log aggregation, error tracking, distributed tracing,…
+- name: Logging
+  url: https://logging.apievangelist.com
+  icon: https://logging.apievangelist.com/icon.png
+  description: An index and topic collection covering log ingestion, log search, log aggregation, and
+    log pipeline services. Logging platforms collect event records from applications,…
+- name: Road Map
+  url: https://road-map.apievangelist.com
+  icon: https://road-map.apievangelist.com/icon.png
+  description: An index and topic collection covering public product road map publishing, feature voting,
+    customer feedback aggregation, and product discovery surfaces. Public road map platforms…
+- name: Plans
+  url: https://plans.apievangelist.com
+  icon: https://plans.apievangelist.com/icon.png
+  description: An index and topic collection covering machine-readable API and SaaS plan definitions.
+    Plans capture the structured representation of pricing tiers, included entitlements, metered…
+- name: Encryption
+  url: https://encryption.apievangelist.com
+  icon: https://encryption.apievangelist.com/icon.png
+  description: An index and topic collection covering encryption services, key management systems (KMS),
+    hardware security modules (HSM), envelope encryption, end-to-end encryption SDKs,…
+- name: Reliability
+  url: https://reliability.apievangelist.com
+  icon: https://reliability.apievangelist.com/icon.png
+  description: An index and topic collection covering site reliability engineering (SRE), reliability
+    platforms, service level objectives (SLOs), error budgets, chaos engineering, resilience…
