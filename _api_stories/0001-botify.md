@@ -1,6 +1,6 @@
 ---
-title: 'Botify MCP Use Case: Building a Recurring Stakeholder Report'
-link: https://support.botify.com/en/articles/16967876-botify-mcp-use-case-building-a-recurring-stakeholder-report
+title: 'Botify MCP Use Case: Turning a Bot Traffic Breakdown into a Recurring Report'
+link: https://support.botify.com/en/articles/16967882-botify-mcp-use-case-turning-a-bot-traffic-breakdown-into-a-recurring-report
 published: '2026-09-16'
 provider: botify
 repo: https://github.com/api-evangelist/botify
