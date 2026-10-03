@@ -1,8 +1,7 @@
 ---
-title: OpenAPI Overlays for Filtering One Spec Into Public, Partner, and Internal
-  Audiences
-link: http://apievangelist.com/2026/07/06/openapi-overlays-for-filtering-multiple-audiences/
-published: '2026-07-06'
+title: OpenAPI Overlays for Splitting Public and Internal Documentation
+link: http://apievangelist.com/2026/07/21/openapi-overlays-for-public-vs-internal-docs/
+published: '2026-07-21'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist
 domain: apievangelist.com
