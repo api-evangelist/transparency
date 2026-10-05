@@ -1,5 +1,6 @@
 aid: transparency
 name: Transparency
+kind: topic
 description: >-
   An index and topic collection covering public-facing transparency surfaces across the API and platform ecosystem. Transparency in this context refers to the mechanisms platforms use to publicly disclose
   operational state, government and legal requests, content moderation decisions, security incidents, certificate issuance, and software supply-chain artifacts. This collection brings together transparency
