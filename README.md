@@ -1,118 +1,97 @@
-# Transparency (transparency)
+# Transparency
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering public-facing transparency surfaces across the API and platform ecosystem. Transparency in this context refers to the mechanisms platforms use to publicly disclose operational state, government and legal requests, content moderation decisions, security incidents, certificate issuance, and software supply-chain artifacts. This collection brings together transparency reports from major platforms (Google, Cloudflare, Microsoft, Meta, Apple, Reddit, GitHub, Twitter/X, LinkedIn), public status page platforms (Statuspage, Better Stack, Atlassian Statuspage), public audit log surfaces (Cloudflare Audit, AWS CloudTrail-adjacent services, Datadog Audit, Microsoft Purview), cryptographic transparency logs and ledgers (Sigstore Rekor, Certificate Transparency, Let's Encrypt CT, Trillian), and data-broker / FOIA disclosure portals (FOIA, Free Law Project, Disclosure Requirements). It is distinct from the Privacy topic, which focuses on consent and data-subject access requests.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Transparency · Status Pages · Audit Logs · Certificate Transparency · Public Disclosure · Transparency Report · Incident Communication · Transparency Log
 
-## Tags:
+## Transparency on APIs.io
 
- - Transparency, Status Page, Audit Log, Certificate Transparency, Public Disclosure, Transparency Report, Incident Communication, Transparency Log
+Everything profiled for Transparency is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/transparency/](https://apis.io/providers/transparency/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Transparency Report Schema](https://raw.githubusercontent.com/api-evangelist/transparency/refs/heads/main/json-schema/transparency-transparency-report-schema.json)
-- [JSONSchema - Audit Log Entry Schema](https://raw.githubusercontent.com/api-evangelist/transparency/refs/heads/main/json-schema/transparency-audit-log-entry-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/transparency/refs/heads/main/json-ld/transparency-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/transparency/refs/heads/main/vocabulary/transparency-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Public Transparency Reports | Periodic public reports from platforms like Google, Cloudflare, Microsoft, Meta, Apple, Reddit, GitHub, and Twitter/X disclosing government and legal requests, takedowns, and content moderation actions. |
-| Public Status Pages | Hosted status page surfaces (Statuspage, Better Stack, Atlassian Statuspage, Incident.io) communicating real-time service health, incidents, and scheduled maintenance to customers and the public. |
-| Public Audit Logs | Audit log APIs and services (Cloudflare Audit Logs, Datadog Audit Trail, Microsoft Purview, Google Cloud Logging) that record administrative and security-relevant events in tamper-evident form. |
-| Cryptographic Transparency Logs | Append-only, cryptographically verifiable logs such as Certificate Transparency, Sigstore Rekor, and Trillian that make issuance and signing events publicly auditable. |
-| Incident Communication | Structured public disclosure of incidents, post-mortems, RCA, and ongoing impact via status pages, RSS, webhooks, and subscriber notifications. |
-| Government and Legal Request Disclosure | Standardized reporting of government data requests, court orders, copyright takedowns, and national security requests across major platforms. |
-| Data-Broker and FOIA Disclosure | Public disclosure portals for data brokers and government records, including Freedom of Information Act request handling and judicial disclosure. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Subscribe to Status Page Incidents | Programmatically subscribe to status page updates from providers like Statuspage, Better Stack, and Atlassian Statuspage and pipe them into incident response systems. |
-| Stream Public Audit Logs into a SIEM | Pull tamper-evident audit logs from Cloudflare, Datadog, Microsoft Purview, and Google Cloud Logging into a centralized security information and event management platform. |
-| Verify Software Artifacts in a Transparency Log | Query Sigstore Rekor or Certificate Transparency logs to verify that a signed artifact, certificate, or release was publicly recorded and is auditable. |
-| Monitor Certificate Issuance for a Domain | Watch Certificate Transparency feeds (including Let's Encrypt CT submissions) for unauthorized or unexpected certificate issuance against owned domains. |
-| Aggregate Platform Transparency Reports | Normalize and compare government request disclosures from Google, Cloudflare, Microsoft, Meta, Apple, Reddit, and Twitter/X for research and journalism. |
-| Publish Post-Incident Communication | Use status page APIs to publish incidents, ongoing updates, post-mortems, and historical reliability metrics to customers and regulators. |
-| FOIA and Public Records Workflows | Submit, track, and publish responses to Freedom of Information Act and judicial disclosure requests via public records APIs. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Transparency: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| Statuspage | Atlassian-owned hosted status page and incident communication platform with a REST API for pages, components, incidents, and subscribers. |
-| Better Stack | Uptime monitoring and hosted status page platform with API access to monitors, heartbeats, incidents, and status pages. |
-| Sigstore Rekor | Cryptographically secure, immutable transparency log for signed software releases, queryable via the Rekor API. |
-| Cloudflare | Public Cloudflare Radar, transparency reports, and Audit Logs API providing visibility into traffic, requests, and tenant administrative activity. |
-| Google Cloud Logging | Centralized audit and platform logging for Google Cloud, including Admin Activity and Data Access audit logs. |
-| Microsoft Purview | Microsoft data governance and compliance platform that exposes audit logs across Microsoft 365 and Azure surfaces. |
-| Datadog | Observability platform offering an Audit Trail and Audit Logs API for monitoring administrative activity across Datadog tenants. |
-| PagerDuty | Incident response platform with public-facing status pages, post-mortems, and an API for incident disclosure and timelines. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Transparency Report Schema](json-schema/transparency-transparency-report-schema.json)
-- [Audit Log Entry Schema](json-schema/transparency-audit-log-entry-schema.json)
-
-### JSON Structure
-
-- [Transparency Report Structure](json-structure/transparency-transparency-report-structure.json)
-- [Audit Log Entry Structure](json-structure/transparency-audit-log-entry-structure.json)
-
-### JSON-LD
-
-- [Transparency Context](json-ld/transparency-context.jsonld)
-
-## Vocabulary
-
-- [Transparency Vocabulary](vocabulary/transparency-vocabulary.yaml) — Unified taxonomy covering transparency reports, status pages, audit logs, and cryptographic transparency logs across 5 resources, 7 actions, 4 workflows, and 4 personas
-
-## Network
-
-This index references the following transparency, status page, audit log, and disclosure repositories:
-
-- [Apple Pay](https://github.com/api-evangelist/apple-pay)
-- [Atlassian](https://github.com/api-evangelist/atlassian)
-- [Better Stack](https://github.com/api-evangelist/better-stack)
-- [Cloudflare](https://github.com/api-evangelist/cloudflare)
-- [Datadog](https://github.com/api-evangelist/datadog)
-- [Disclosure Requirements](https://github.com/api-evangelist/disclosure-requirements)
-- [FireHydrant](https://github.com/api-evangelist/firehydrant)
-- [Free Law Project](https://github.com/api-evangelist/free-law-project)
-- [Freedom of Information Act](https://github.com/api-evangelist/freedom-of-information-act)
-- [GitHub Enterprise](https://github.com/api-evangelist/github-enterprise)
-- [Google Cloud](https://github.com/api-evangelist/google-cloud)
-- [Google Cloud Logging](https://github.com/api-evangelist/google-cloud-logging)
-- [Google Cloud Security Command Center](https://github.com/api-evangelist/google-cloud-security-command-center)
-- [Honeybadger](https://github.com/api-evangelist/honeybadger)
-- [Incident.io](https://github.com/api-evangelist/incident-io)
-- [Let's Encrypt](https://github.com/api-evangelist/lets-encrypt)
-- [LinkedIn](https://github.com/api-evangelist/linkedin)
-- [Meta Platforms](https://github.com/api-evangelist/meta-platforms)
-- [Microsoft Azure](https://github.com/api-evangelist/microsoft-azure)
-- [Microsoft Purview](https://github.com/api-evangelist/microsoft-purview)
-- [PagerDuty](https://github.com/api-evangelist/pagerduty)
-- [Reddit](https://github.com/api-evangelist/reddit)
-- [Sigstore](https://github.com/api-evangelist/sigstore)
-- [Squadcast](https://github.com/api-evangelist/squadcast)
-- [Statuspage](https://github.com/api-evangelist/statuspage)
-- [Twitter](https://github.com/api-evangelist/twitter)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/transparency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
